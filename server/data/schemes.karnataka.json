@@ -1,0 +1,736 @@
+[
+  {
+    "slug": "gruha-lakshmi-karnataka",
+    "level": "karnataka",
+    "category": "women_empowerment",
+    "name": {
+      "en": "Gruha Lakshmi Scheme (Karnataka)",
+      "hi": "गृह लक्ष्मी योजना (कर्नाटक)",
+      "kn": "ಗೃಹ ಲಕ್ಷ್ಮಿ ಯೋಜನೆ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "Guaranteed direct monthly financial assistance of ₹2,000 to the woman head of household across Karnataka.",
+      "hi": "कर्नाटक के प्रत्येक परिवार की महिला मुखिया को प्रतिमाह ₹2,000 की सीधी वित्तीय गारंटी सहायता।",
+      "kn": "ಕರ್ನಾಟಕದ ಪ್ರತಿ ಕುಟುಂಬದ ಯಜಮಾನಿ ಮಹಿಳೆಗೆ ತಿಂಗಳಿಗೆ ₹2,000 ನೇರ ನಗದು ವರ್ಗಾವಣೆ (ಡಿಬಿಟಿ)."
+    },
+    "benefits": {
+      "en": "₹2,000 every month transferred via DBT directly into the bank account of the female head of family named on the Ration Card.",
+      "hi": "राशन कार्ड पर दर्ज महिला मुखिया के बैंक खाते में प्रतिमाह ₹2,000 की सीधी डीबीटी सहायता।",
+      "kn": "ಕುಟುಂಬದ ಮಹಿಳಾ ಯಜಮಾನಿಯ ಖಾತೆಗೆ ಪ್ರತಿ ತಿಂಗಳು ₹2,000 ನೇರ ಜಮೆ."
+    },
+    "documents": [
+      { "en": "Karnataka Ration Card (BPL / Antyodaya / APL)", "hi": "कर्नाटक राशन कार्ड", "kn": "ಕರ್ನಾಟಕ ಪಡಿತರ ಚೀಟಿ (ಬಿಪಿಎಲ್/ಅಂತ್ಯೋದಯ/ಎಪಿಎಲ್)" },
+      { "en": "Aadhaar Card of Woman Head & Husband", "hi": "महिला मुखिया एवं पति का आधार कार्ड", "kn": "ಮನೆಯ ಯಜಮಾನಿ ಮತ್ತು ಪತಿಯ ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Aadhaar-seeded Bank Account Passbook", "hi": "आधार से लिंक बैंक पासबुक", "kn": "ಆಧಾರ್ ಲಿಂಕ್ ಆದ ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": null,
+    "genders": ["female"],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://sevasindhugs.karnataka.gov.in/",
+    "sourceUrl": "https://sevasindhugs.karnataka.gov.in/gl_page.html",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "yuva-nidhi-karnataka",
+    "level": "karnataka",
+    "category": "employment",
+    "name": {
+      "en": "Yuva Nidhi Scheme (Karnataka)",
+      "hi": "युवा निधि योजना (कर्नाटक)",
+      "kn": "ಯುವ ನಿಧಿ ಯೋಜನೆ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "Unemployment allowance of ₹3,000/month for degree holders and ₹1,500/month for diploma holders for up to 24 months.",
+      "hi": "कर्नाटक के शिक्षित बेरोजगार स्नातकों को ₹3,000/माह और डिप्लोमा धारकों को ₹1,500/माह 2 वर्ष तक।",
+      "kn": "ನಿರುದ್ಯೋಗಿ ಪದವೀಧರರಿಗೆ ಮಾಸಿಕ ₹3,000 ಮತ್ತು ಡಿಪ್ಲೊಮಾ ಹೊಂದಿದವರಿಗೆ ಮಾಸಿಕ ₹1,500 ನಿರುದ್ಯೋಗ ಭತ್ಯೆ."
+    },
+    "benefits": {
+      "en": "₹3,000/month for degree graduates and ₹1,500/month for diploma holders directly credited to bank account for up to 2 years.",
+      "hi": "स्नातक पास युवाओं को ₹3,000 तथा डिप्लोमा धारकों को ₹1,500 प्रति माह 24 महीने तक डीबीटी के जरिए।",
+      "kn": "ಗರಿಷ್ಠ 2 ವರ್ಷಗಳವರೆಗೆ ಅಥವಾ ಉದ್ಯೋಗ ಸಿಗುವವರೆಗೆ ನೇರ ನಗದು ಭತ್ಯೆ."
+    },
+    "documents": [
+      { "en": "Degree / Diploma Passing Certificate & Marks Card", "hi": "डिग्री/डिप्लोमा उत्तीर्ण अंकतालिका", "kn": "ಪದವಿ / ಡಿಪ್ಲೊಮಾ ಅಂಕಪಟ್ಟಿ ಮತ್ತು ಉತ್ತೀರ್ಣ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Karnataka Domicile / 7 Years Study Certificate", "hi": "कर्नाटक अधिवास प्रमाणपत्र", "kn": "ಕರ್ನಾಟಕದಲ್ಲಿ 7 ವರ್ಷ ವ್ಯಾಸಂಗ ಮಾಡಿದ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" }
+    ],
+    "minAge": 18,
+    "maxAge": 35,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["unemployed", "student"],
+    "disability": false,
+    "applyLink": "https://sevasindhugs.karnataka.gov.in/",
+    "sourceUrl": "https://sevasindhugs.karnataka.gov.in/yn_page.html",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "gruha-jyothi-karnataka",
+    "level": "karnataka",
+    "category": "social_welfare",
+    "name": {
+      "en": "Gruha Jyothi Scheme (Karnataka)",
+      "hi": "गृह ज्योति योजना (कर्नाटक)",
+      "kn": "ಗೃಹ ಜ್ಯೋತಿ ಯೋಜನೆ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "Zero electricity bills up to 200 units of free power per month for all residential domestic households in Karnataka.",
+      "hi": "कर्नाटक के सभी घरेलू उपभोक्ताओं के लिए प्रतिमाह 200 यूनिट तक मुफ्त घरेलू बिजली।",
+      "kn": "ಕರ್ನಾಟಕದ ಎಲ್ಲಾ ಗೃಹಬಳಕೆದಾರರಿಗೆ ತಿಂಗಳಿಗೆ 200 ಯೂನಿಟ್‌ಗಳವರೆಗೆ ಉಚಿತ ವಿದ್ಯುತ್ (ಶೂನ್ಯ ಬಿಲ್)."
+    },
+    "benefits": {
+      "en": "Completely free electricity up to average entitled consumption plus 10% buffer (maximum 200 units monthly).",
+      "hi": "औसत मासिक खपत + 10% बफर (अधिकतम 200 यूनिट तक) पर बिजली का बिल शून्य रुपये।",
+      "kn": "ತಿಂಗಳಿಗೆ ಗರಿಷ್ಠ 200 ಯೂನಿಟ್‌ವರೆಗೆ ಶೂನ್ಯ ವಿದ್ಯುತ್ ಬಿಲ್."
+    },
+    "documents": [
+      { "en": "Electricity Account ID (BESCOM / MESCOM / GESCOM / HESCOM / CESC)", "hi": "बिजली बिल उपभोक्ता खाता संख्या", "kn": "ವಿದ್ಯುತ್ ಗ್ರಾಹಕರ ಖಾತೆ ಐಡಿ" },
+      { "en": "Aadhaar Card of Consumer / Resident", "hi": "उपभोक्ता का आधार कार्ड", "kn": "ಗ್ರಾಹಕರ / ಬಾಡಿಗೆದಾರರ ಆಧಾರ್ ಕಾರ್ಡ್" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://sevasindhugs.karnataka.gov.in/",
+    "sourceUrl": "https://sevasindhugs.karnataka.gov.in/gj_page.html",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "shakti-scheme-karnataka",
+    "level": "karnataka",
+    "category": "women_empowerment",
+    "name": {
+      "en": "Shakti Scheme (Free Bus Travel for Women)",
+      "hi": "शक्ति योजना (महिलाओं के लिए मुफ्त बस यात्रा)",
+      "kn": "ಶಕ್ತಿ ಯೋಜನೆ (ಮಹಿಳೆಯರಿಗೆ ಉಚಿತ ಬಸ್ ಪ್ರಯಾಣ)"
+    },
+    "shortDescription": {
+      "en": "100% free bus travel for all women and transgender persons domiciled in Karnataka across state transport corporations.",
+      "hi": "कर्नाटक की सभी महिलाओं और ट्रांसजेंडर व्यक्तियों के लिए राज्य की सरकारी बसों में 100% मुफ्त यात्रा।",
+      "kn": "ಕರ್ನಾಟಕದ ಎಲ್ಲಾ ಮಹಿಳೆಯರು ಮತ್ತು ತೃತೀಯ ಲಿಂಗಿಗಳಿಗೆ ಕೆಎಸ್‌ಆರ್‌ಟಿಸಿ, ಬಿಎಂಟಿಸಿ ಬಸ್‌ಗಳಲ್ಲಿ ಸಂಪೂರ್ಣ ಉಚಿತ ಪ್ರಯಾಣ."
+    },
+    "benefits": {
+      "en": "Zero fare travel on ordinary and express state road transport buses (KSRTC, BMTC, NWKRTC, KKRTC) across Karnataka.",
+      "hi": "कर्नाटक राज्य सड़क परिवहन निगमों की साधारण और एक्सप्रेस बसों में शून्य किराया यात्रा।",
+      "kn": "ಕರ್ನಾಟಕದಾದ್ಯಂತ ಸಾರಿಗೆ ಸಂಸ್ಥೆಯ ಬಸ್‌ಗಳಲ್ಲಿ ಉಚಿತ ಶೂನ್ಯ ಟಿಕೆಟ್ ಪ್ರಯಾಣ."
+    },
+    "documents": [
+      { "en": "Government ID with Karnataka Address (Aadhaar / Voter ID / Driving License)", "hi": "कर्नाटक पते वाला सरकारी पहचान पत्र (आधार / वोटर आईडी)", "kn": "ಕರ್ನಾಟಕ ವಿಳಾಸವಿರುವ ಸರ್ಕಾರದ ಗುರುತಿನ ಚೀಟಿ (ಆಧಾರ್ / ವೋಟರ್ ಐಡಿ)" }
+    ],
+    "minAge": 5,
+    "maxAge": null,
+    "maxIncome": null,
+    "genders": ["female", "transgender"],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://sevasindhugs.karnataka.gov.in/",
+    "sourceUrl": "https://transport.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "anna-bhagya-karnataka",
+    "level": "karnataka",
+    "category": "social_welfare",
+    "name": {
+      "en": "Anna Bhagya Scheme (Karnataka)",
+      "hi": "अन्न भाग्य योजना (कर्नाटक)",
+      "kn": "ಅನ್ನ ಭಾಗ್ಯ ಯೋಜನೆ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "10 kg food grains per person per month (5 kg food grains + ₹170 direct cash transfer per person in lieu of additional 5 kg).",
+      "hi": "बीपीएल/अंत्योदय राशन कार्ड धारक प्रति व्यक्ति को 10 किलो खाद्यान्न (5 किलो चावल + अतिरिक्त 5 किलो हेतु ₹170 नकद डीबीटी)।",
+      "kn": "ಬಿಪಿಎಲ್/ಅಂತ್ಯೋದಯ ಪಡಿತರ ಚೀಟಿದಾರರಿಗೆ ಪ್ರತಿ ವ್ಯಕ್ತಿಗೆ ತಿಂಗಳಿಗೆ 5 ಕೆಜಿ ಉಚಿತ ಅಕ್ಕಿ + ಹೆಚ್ಚುವರಿ 5 ಕೆಜಿ ಬದಲಿಗೆ ₹170 ನೇರ ನಗದು."
+    },
+    "benefits": {
+      "en": "Direct cash transfer of ₹170 per person per month directly deposited into head of family bank account in addition to 5 kg free rice.",
+      "hi": "प्रति व्यक्ति प्रतिमाह ₹170 की सीधी नकद सहायता सीधे परिवार के मुखिया के बैंक खाते में।",
+      "kn": "ಕುಟುಂಬದ ಸದಸ್ಯರ ಲೆಕ್ಕದಲ್ಲಿ ತಲಾ ₹170 ನೇರ ನಗದು ವರ್ಗಾವಣೆ."
+    },
+    "documents": [
+      { "en": "Karnataka BPL / Antyodaya Ration Card", "hi": "कर्नाटक बीपीएल राशन कार्ड", "kn": "ಕರ್ನಾಟಕ ಬಿಪಿಎಲ್ / ಅಂತ್ಯೋದಯ ಕಾರ್ಡ್" },
+      { "en": "Aadhaar Card linked to Bank Account", "hi": "आधार से लिंक बैंक खाता", "kn": "ಆಧಾರ್ ಲಿಂಕ್ ಆದ ಬ್ಯಾಂಕ್ ಖಾತೆ" }
+    ],
+    "minAge": 1,
+    "maxAge": null,
+    "maxIncome": 120000,
+    "genders": [],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://ahara.kar.nic.in/",
+    "sourceUrl": "https://ahara.kar.nic.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "raitha-siri-yojana-karnataka",
+    "level": "karnataka",
+    "category": "agriculture",
+    "name": {
+      "en": "Karnataka Raitha Siri Scheme",
+      "hi": "कर्नाटक रैथा सिरी योजना (बाजरा/मिलेट प्रोत्साहन)",
+      "kn": "ಕರ್ನಾಟಕ ರೈತ ಸಿರಿ ಯೋಜನೆ (ಸಿರಿಧಾನ್ಯ ಪ್ರೋತ್ಸಾಹಧನ)"
+    },
+    "shortDescription": {
+      "en": "Financial assistance of ₹10,000 per hectare directly credited to bank accounts of farmers cultivating minor millets.",
+      "hi": "सिरीधान्य (मिलेट्स) उगाने वाले किसानों को ₹10,000 प्रति हेक्टेयर की सीधी वित्तीय सहायता।",
+      "kn": "ಕಿರು ಸಿರಿಧಾನ್ಯಗಳನ್ನು ಬೆಳೆಯುವ ರೈತರಿಗೆ ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ ₹10,000 ನೇರ ಆರ್ಥಿಕ ಪ್ರೋತ್ಸಾಹಧನ."
+    },
+    "benefits": {
+      "en": "Direct incentive of ₹10,000 per hectare (up to a maximum of 2 hectares = ₹20,000) directly deposited to farmer bank accounts.",
+      "hi": "मिलेट उत्पादकों को अधिकतम 2 हेक्टेयर हेतु ₹20,000 तक की सीधी डीबीटी सहायता।",
+      "kn": "ಗರಿಷ್ಠ 2 ಹೆಕ್ಟೇರ್‌ವರೆಗೆ ಒಟ್ಟು ₹20,000 ಸಹಾಯಧನ."
+    },
+    "documents": [
+      { "en": "Land Records / RTC showing millet cultivation", "hi": "भूमि खतौनी / फसल सर्वे रिकॉर्ड", "kn": "ಸಿರಿಧಾನ್ಯ ಬೆಳೆ ಸಮೀಕ್ಷೆ ದಾಖಲಾದ ಪಹಣಿ (ಆರ್.ಟಿ.ಸಿ)" },
+      { "en": "Farmer Registration ID (FRUITS ID)", "hi": "फ्रूट्स आईडी (FRUITS ID)", "kn": "ಫ್ರೂಟ್ಸ್ ಐಡಿ (FRUITS ID)" },
+      { "en": "Aadhaar Card & Bank Account", "hi": "आधार कार्ड एवं बैंक पासबुक", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್ ಮತ್ತು ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["farmer"],
+    "disability": false,
+    "applyLink": "https://fruits.karnataka.gov.in/",
+    "sourceUrl": "https://raitamitra.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "cm-raitha-vidyanidhi-karnataka",
+    "level": "karnataka",
+    "category": "education",
+    "name": {
+      "en": "Chief Minister Raitha Vidyanidhi Scheme",
+      "hi": "मुख्यमंत्री रैथा विद्यानिधि योजना",
+      "kn": "ಮುಖ್ಯಮಂತ್ರಿ ರೈತ ವಿದ್ಯಾನಿಧಿ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Annual scholarships ranging from ₹2,000 to ₹11,000 for children of farmers pursuing higher education after SSLC/10th.",
+      "hi": "दसवीं कक्षा के बाद उच्च शिक्षा प्राप्त कर रहे किसानों के बच्चों को ₹2,000 से ₹11,000 की वार्षिक छात्रवृत्ति।",
+      "kn": "ಎಸ್ಸೆಸ್ಸೆಲ್ಸಿ ನಂತರ ಉನ್ನತ ಶಿಕ್ಷಣ ವ್ಯಾಸಂಗ ಮಾಡುವ ರೈತರ ಮಕ್ಕಳಿಗೆ ವಾರ್ಷಿಕ ₹2,000 ದಿಂದ ₹11,000 ವರೆಗೆ ವಿದ್ಯಾರ್ಥಿವೇತನ."
+    },
+    "benefits": {
+      "en": "Financial grant from ₹2,000/yr for PUC/ITI, ₹5,000/yr for Degree, to ₹11,000/yr for Medical/Engineering courses directly via DBT.",
+      "hi": "पीयूसी, आईटीआई, डिग्री, इंजीनियरिंग और मेडिकल की पढ़ाई हेतु ₹2,000 से ₹11,000 तक की सीधी स्कॉलरशिप।",
+      "kn": "ಪಿಯುಸಿ, ಪದವಿ, ಇಂಜಿನಿಯರಿಂಗ್, ವೈದ್ಯಕೀಯ ಶಿಕ್ಷಣಕ್ಕೆ ವಾರ್ಷಿಕ ₹2,000 ದಿಂದ ₹11,000 ನೇರ ಜಮೆ."
+    },
+    "documents": [
+      { "en": "FRUITS ID of Farmer Parent", "hi": "माता-पिता की फ्रूट्स आईडी (FRUITS ID)", "kn": "ಪೋಷಕರ ಫ್ರೂಟ್ಸ್ ಐಡಿ (FRUITS ID)" },
+      { "en": "Student Admission Receipt & College ID", "hi": "कॉलेज प्रवेश रसीद", "kn": "ಕಾಲೇಜು ಪ್ರವೇಶ ರಶೀದಿ ಮತ್ತು ಗುರುತಿನ ಚೀಟಿ" },
+      { "en": "Student Aadhaar Card & Bank Passbook", "hi": "विद्यार्थी का आधार कार्ड एवं बैंक विवरण", "kn": "ವಿದ್ಯಾರ್ಥಿಯ ಆಧಾರ್ ಕಾರ್ಡ್ ಮತ್ತು ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 15,
+    "maxAge": 28,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["student"],
+    "disability": false,
+    "applyLink": "https://ssp.postmatric.karnataka.gov.in/",
+    "sourceUrl": "https://raitamitra.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "krishi-bhagya-yojana-karnataka",
+    "level": "karnataka",
+    "category": "agriculture",
+    "name": {
+      "en": "Karnataka Krishi Bhagya Scheme",
+      "hi": "कर्नाटक कृषि भाग्य योजना",
+      "kn": "ಕರ್ನಾಟಕ ಕೃಷಿ ಭಾಗ್ಯ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Up to 80% - 90% subsidy for construction of farm ponds (Krishi Honda), polythene lining, and diesel pumpsets in rainfed areas.",
+      "hi": "वर्षा आधारित क्षेत्रों में कृषि तालाब (कृषि होंडा) निर्माण, पॉलीथीन लाइनिंग और पंपसेट पर 80-90% सब्सिडी।",
+      "kn": "ಮಳೆಯಾಶ್ರಿತ ಕೃಷಿ ಪ್ರದೇಶಗಳಲ್ಲಿ ಕೃಷಿ ಹೊಂಡ ನಿರ್ಮಾಣ, ಪಾಲಿಥೀನ್ ಹೊದಿಕೆ ಮತ್ತು ಡೀಸೆಲ್ ಪಂಪ್‌ಸೆಟ್‌ಗೆ ಶೇ. 80-90 ರಿಯಾಯಿತಿ."
+    },
+    "benefits": {
+      "en": "Financial subsidy of 80% for general farmers and 90% for SC/ST farmers for farm ponds, shading nets, and micro-irrigation sets.",
+      "hi": "सामान्य किसानों को 80% तथा एससी/एसटी किसानों को 90% अनुदान पर खेत तालाब एवं सूक्ष्म सिंचाई सुविधा।",
+      "kn": "ಸಾಮಾನ್ಯ ರೈತರಿಗೆ ಶೇ. 80 ಮತ್ತು ಎಸ್ಸಿ/ಎಸ್ಟಿ ರೈತರಿಗೆ ಶೇ. 90 ಸಹಾಯಧನದಲ್ಲಿ ಕೃಷಿ ಹೊಂಡ ನಿರ್ಮಾಣ."
+    },
+    "documents": [
+      { "en": "Land Records (RTC / Pahani)", "hi": "जमीन की खतौनी / आरटीसी", "kn": "ಜಮೀನಿನ ಪಹಣಿ (ಆರ್.ಟಿ.ಸಿ)" },
+      { "en": "FRUITS ID", "hi": "फ्रूट्स आईडी", "kn": "ಫ್ರೂಟ್ಸ್ ಐಡಿ" },
+      { "en": "Caste Certificate (for 90% SC/ST subsidy)", "hi": "जाति प्रमाण पत्र", "kn": "ಜಾತಿ ಪ್ರಮಾಣ ಪತ್ರ" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["farmer"],
+    "disability": false,
+    "applyLink": "https://fruits.karnataka.gov.in/",
+    "sourceUrl": "https://raitamitra.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "ganga-kalyana-yojana-karnataka",
+    "level": "karnataka",
+    "category": "agriculture",
+    "name": {
+      "en": "Ganga Kalyana Scheme (Karnataka)",
+      "hi": "गंगा कल्याण योजना (कर्नाटक)",
+      "kn": "ಗಂಗಾ ಕಲ್ಯಾಣ ಯೋಜನೆ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "Free borewell drilling, pump installation, and electrification for small/marginal farmers belonging to SC, ST, and Backward Classes.",
+      "hi": "अनुसूचित जाति, जनजाति और पिछड़े वर्ग के लघु/सीमांत किसानों को सिंचाई हेतु मुफ्त बोरवेल, पंपसेट और विद्युतीकरण।",
+      "kn": "ಪರಿಶಿಷ್ಟ ಜಾತಿ, ಪಂಗಡ ಮತ್ತು ಹಿಂದುಳಿದ ವರ್ಗಗಳ ಸಣ್ಣ ರೈತರಿಗೆ ಉಚಿತ ಕೊಳವೆಬಾವಿ ಕೊರೆಸುವ ಮತ್ತು ಪಂಪ್ ಅಳವಡಿಸುವ ಯೋಜನೆ."
+    },
+    "benefits": {
+      "en": "100% state-funded borewell drilling, submersible pump installation, and electrification subsidy up to ₹3.50 lakh.",
+      "hi": "₹3.50 लाख तक का शत-प्रतिशत मुफ्त बोरवेल खनन, पंप एवं बिजली कनेक्शन।",
+      "kn": "ಶೇ. 100 ರಷ್ಟು ಉಚಿತ ಕೊಳವೆಬಾವಿ, ಸಬ್‌ಮರ್ಸಿಬಲ್ ಪಂಪ್ ಮತ್ತು ವಿದ್ಯುತ್ ಸಂಪರ್ಕ ಸೌಲಭ್ಯ."
+    },
+    "documents": [
+      { "en": "Caste Certificate (SC/ST/OBC/Minority)", "hi": "जाति प्रमाण पत्र", "kn": "ಜಾತಿ ಪ್ರಮಾಣ ಪತ್ರ (SC/ST/OBC/ಅಲ್ಪಸಂಖ್ಯಾತ)" },
+      { "en": "Income Certificate (< ₹1.5 Lakh/yr)", "hi": "आय प्रमाण पत्र", "kn": "ಆದಾಯ ಪ್ರಮಾಣ ಪತ್ರ (ವಾರ್ಷಿಕ ₹1.5 ಲಕ್ಷದೊಳಗೆ)" },
+      { "en": "Land Records (RTC) showing 1.20 to 5 acres holding", "hi": "भूमि दस्तावेज (1.20 से 5 एकड़)", "kn": "1.20 ರಿಂದ 5 ಎಕರೆ ಜಮೀನಿನ ಪಹಣಿ (ಆರ್.ಟಿ.ಸಿ)" }
+    ],
+    "minAge": 18,
+    "maxAge": 60,
+    "maxIncome": 150000,
+    "genders": [],
+    "castes": ["sc", "st", "obc"],
+    "occupations": ["farmer"],
+    "disability": false,
+    "applyLink": "https://kmdc.karnataka.gov.in/",
+    "sourceUrl": "https://sw.kar.nic.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "swavalambi-sarathi-scheme-karnataka",
+    "level": "karnataka",
+    "category": "employment",
+    "name": {
+      "en": "Swavalambi Sarathi Scheme (Karnataka)",
+      "hi": "स्वावलंबी सारथी योजना (कर्नाटक)",
+      "kn": "ಸ್ವಾವಲಂಬಿ ಸಾರಥಿ ಯೋಜನೆ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "Up to 50% - 75% subsidy (maximum ₹3 lakh) on commercial vehicle purchase loans for unemployed SC, ST, and OBC youth.",
+      "hi": "एससी, एसटी और ओबीसी बेरोजगार युवाओं को कमर्शियल टैक्सी/वाहन खरीद पर 50% से 75% (अधिकतम ₹3 लाख) की सब्सिडी।",
+      "kn": "ನಿರುದ್ಯೋಗಿ ಎಸ್ಸಿ/ಎಸ್ಟಿ/ಹಿಂದುಳಿದ ವರ್ಗಗಳ ಯುವಕರಿಗೆ ವಾಣಿಜ್ಯ ವಾಹನ ಖರೀದಿಗೆ ಶೇ. 50 ರಿಂದ 75 (ಗರಿಷ್ಠ ₹3 ಲಕ್ಷ) ಸಹಾಯಧನ."
+    },
+    "benefits": {
+      "en": "State government pays up to ₹3,00,000 subsidy towards bank loan for purchasing goods vehicles, passenger autos, or taxis.",
+      "hi": "कमर्शियल मालवाहक या यात्री वाहन खरीदने हेतु ₹3,00,000 तक की सीधी सरकारी सब्सिडी।",
+      "kn": "ಟ್ಯಾಕ್ಸಿ ಅಥವಾ ಗೂಡ್ಸ್ ವಾಹನ ಖರೀದಿಗೆ ಗರಿಷ್ಠ ₹3,00,000 ನೇರ ಸಹಾಯಧನ."
+    },
+    "documents": [
+      { "en": "Valid Commercial Driving License", "hi": "वैध वाणिज्यिक ड्राइविंग लाइसेंस", "kn": "ವಾಣಿಜ್ಯ ಚಾಲನಾ ಪರವಾನಗಿ (ಡಿಎಲ್)" },
+      { "en": "Caste & Income Certificate", "hi": "जाति एवं आय प्रमाण पत्र", "kn": "ಜಾತಿ ಮತ್ತು ಆದಾಯ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Vehicle Quotation from Authorized Dealer", "hi": "वाहन कोटेशन", "kn": "ವಾಹನದ ಕೊಟೇಶನ್" }
+    ],
+    "minAge": 21,
+    "maxAge": 45,
+    "maxIncome": 300000,
+    "genders": [],
+    "castes": ["sc", "st", "obc"],
+    "occupations": ["unemployed", "daily_wage", "street_vendor"],
+    "disability": false,
+    "applyLink": "https://sevasindhu.karnataka.gov.in/",
+    "sourceUrl": "https://kmdc.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "sandhya-suraksha-yojana-karnataka",
+    "level": "karnataka",
+    "category": "social_welfare",
+    "name": {
+      "en": "Sandhya Suraksha Yojana (Karnataka)",
+      "hi": "संध्या सुरक्षा योजना (कर्नाटक)",
+      "kn": "ಸಂಧ್ಯಾ ಸುರಕ್ಷಾ ಯೋಜನೆ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "Monthly social security financial pension of ₹1,200 for impoverished senior citizens aged 65 and above in Karnataka.",
+      "hi": "कर्नाटक के 65 वर्ष और उससे अधिक आयु के गरीब वरिष्ठ नागरिकों के लिए प्रतिमाह ₹1,200 की वृद्धावस्था पेंशन।",
+      "kn": "ಕರ್ನಾಟಕದ 65 ವರ್ಷ ಮತ್ತು ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ವಯಸ್ಸಿನ ಬಡ ಹಿರಿಯ ನಾಗರಿಕರಿಗೆ ಮಾಸಿಕ ₹1,200 ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಪಿಂಚಣಿ."
+    },
+    "benefits": {
+      "en": "₹1,200 deposited every month into the senior citizen's bank account via DBT, plus concessional bus pass facility.",
+      "hi": "₹1,200 प्रतिमाह सीधे बैंक खाते में पेंशन सहायता एवं रियायती बस पास सुविधा।",
+      "kn": "ಪ್ರತಿ ತಿಂಗಳು ₹1,200 ನೇರ ನಗದು ಪಿಂಚಣಿ ಮತ್ತು ರಿಯಾಯಿತಿ ದರದ ಬಸ್ ಪಾಸ್ ಸೌಲಭ್ಯ."
+    },
+    "documents": [
+      { "en": "Age Verification Proof (65+ years)", "hi": "आयु प्रमाण पत्र (65 वर्ष या अधिक)", "kn": "ವಯಸ್ಸಿನ ದೃಢೀಕರಣ ಪತ್ರ (65+ ವರ್ಷ)" },
+      { "en": "Annual Income Certificate (< ₹20,000/yr)", "hi": "वार्षिक आय प्रमाण पत्र", "kn": "ಆದಾಯ ಪ್ರಮಾಣ ಪತ್ರ (ಕಡಿಮೆ ಆದಾಯ)" },
+      { "en": "Bank Account Passbook & Aadhaar Card", "hi": "बैंक पासबुक एवं आधार कार्ड", "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್ ಮತ್ತು ಆಧಾರ್ ಕಾರ್ಡ್" }
+    ],
+    "minAge": 65,
+    "maxAge": null,
+    "maxIncome": 50000,
+    "genders": [],
+    "castes": [],
+    "occupations": ["retired", "daily_wage", "unemployed"],
+    "disability": false,
+    "applyLink": "https://nadakacheri.karnataka.gov.in/",
+    "sourceUrl": "https://welfare.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "manaswini-scheme-karnataka",
+    "level": "karnataka",
+    "category": "social_welfare",
+    "name": {
+      "en": "Manaswini Scheme (Karnataka)",
+      "hi": "मनस्विनी योजना (कर्नाटक)",
+      "kn": "ಮನಸ್ವಿನಿ ಯೋಜನೆ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "Monthly pension of ₹1,200 for unmarried women above 40 years, divorced, and deserted destitute women below poverty line.",
+      "hi": "40 वर्ष से अधिक आयु की अविवाहित, तलाकशुदा और परित्यक्त गरीब महिलाओं को ₹1,200 प्रतिमाह वित्तीय सहायता।",
+      "kn": "40 ವರ್ಷ ಮೇಲ್ಪಟ್ಟ ಅವಿವಾಹಿತ, ವಿಚ್ಛೇದಿತ ಮತ್ತು ಪರಿತ್ಯಕ್ತ ಬಡ ಮಹಿಳೆಯರಿಗೆ ಮಾಸಿಕ ₹1,200 ಆರ್ಥಿಕ ಪಿಂಚಣಿ."
+    },
+    "benefits": {
+      "en": "Monthly financial pension of ₹1,200 directly transferred to beneficiary bank account to ensure dignified livelihood.",
+      "hi": "सम्मानजनक आजीविका हेतु प्रतिमाह ₹1,200 की सीधी बैंक ट्रांसफर पेंशन सहायता।",
+      "kn": "ಪ್ರತಿ ತಿಂಗಳು ₹1,200 ನೇರ ನಗದು ಪಿಂಚಣಿ ಸೌಲಭ್ಯ."
+    },
+    "documents": [
+      { "en": "Unmarried / Desertion / Divorce Proof from competent local authority", "hi": "अविवाहित / परित्यक्ता प्रमाण पत्र", "kn": "ಅವಿವಾಹಿತ / ಪರಿತ್ಯಕ್ತ ದೃಢೀಕರಣ ಪತ್ರ" },
+      { "en": "BPL Card / Income Certificate (< ₹32,000/yr)", "hi": "बीपीएल राशन कार्ड", "kn": "ಬಿಪಿಎಲ್ ಪಡಿತರ ಚೀಟಿ / ಆದಾಯ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Aadhaar Card & Bank Account", "hi": "आधार कार्ड एवं बैंक पासबुक", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್ ಮತ್ತು ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 40,
+    "maxAge": 64,
+    "maxIncome": 50000,
+    "genders": ["female"],
+    "castes": [],
+    "occupations": ["unemployed", "homemaker", "daily_wage"],
+    "disability": false,
+    "applyLink": "https://nadakacheri.karnataka.gov.in/",
+    "sourceUrl": "https://welfare.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "chethana-scheme-disability-karnataka",
+    "level": "karnataka",
+    "category": "social_welfare",
+    "name": {
+      "en": "Chethana Scheme for Persons with Disabilities (Karnataka)",
+      "hi": "चेतना योजना - दिव्यांगजन स्वरोजगार सहायता (कर्नाटक)",
+      "kn": "ಚೇತನ ಯೋಜನೆ - ವಿಕಲಚೇತನರ ಸ್ವಯಂ ಉದ್ಯೋಗ ಯೋಜನೆ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "Financial grant and subsidy up to ₹50,000 for persons with disabilities to set up petty shops, kiosks, and self-employment units.",
+      "hi": "दिव्यांग व्यक्तियों को छोटी दुकान, कियोस्क या स्वरोजगार शुरू करने हेतु ₹50,000 तक की सरकारी सहायता।",
+      "kn": "ವಿಕಲಚೇತನ ವ್ಯಕ್ತಿಗಳು ಕಿರು ಉದ್ಯೋಗ ಅಥವಾ ಅಂಗಡಿ ಪ್ರಾರಂಭಿಸಲು ₹50,000 ವರೆಗೆ ಸಹಾಯಧನ."
+    },
+    "benefits": {
+      "en": "Direct subsidy of ₹50,000 or 50% of unit cost (whichever is less) for establishing viable self-employment businesses.",
+      "hi": "स्वरोजगार हेतु ₹50,000 अथवा इकाई लागत का 50% तक सरकारी अनुदान।",
+      "kn": "ಸ್ವಯಂ ಉದ್ಯೋಗಕ್ಕೆ ಗರಿಷ್ಠ ₹50,000 ವರೆಗೆ ನೇರ ಸಹಾಯಧನ."
+    },
+    "documents": [
+      { "en": "Disability Certificate (>40%) / UDID Card", "hi": "यूडीआईडी कार्ड / 40% दिव्यांगता प्रमाण", "kn": "ಯುಡಿಐಡಿ ಕಾರ್ಡ್ / ಶೇ. 40 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಂಗವಿಕಲತೆ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Karnataka Domicile Proof & Aadhaar", "hi": "कर्नाटक निवास प्रमाण एवं आधार", "kn": "ವಾಸಸ್ಥಳ ಪ್ರಮಾಣ ಪತ್ರ ಮತ್ತು ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Bank Passbook", "hi": "बैंक पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 18,
+    "maxAge": 55,
+    "maxIncome": 100000,
+    "genders": [],
+    "castes": [],
+    "occupations": [],
+    "disability": true,
+    "applyLink": "https://welfare.karnataka.gov.in/",
+    "sourceUrl": "https://welfare.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "mathru-poorna-yojana-karnataka",
+    "level": "karnataka",
+    "category": "women_empowerment",
+    "name": {
+      "en": "Mathru Poorna Scheme (Karnataka)",
+      "hi": "मातृ पूर्णा योजना (कर्नाटक)",
+      "kn": "ಮಾತೃ ಪೂರ್ಣ ಯೋಜನೆ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "One wholesome hot cooked nutritious meal, boiled egg/sprouts, milk, and iron supplements daily for pregnant & lactating women.",
+      "hi": "गर्भवती एवं धात्री माताओं को आंगनवाड़ी केंद्रों पर प्रतिदिन एक समय गर्म पका हुआ पौष्टिक भोजन, दूध और अंडा।",
+      "kn": "ಗರ್ಭಿಣಿ ಮತ್ತು ಬಾಣಂತಿಯರಿಗೆ ಪ್ರತಿದಿನ ಅಂಗನವಾಡಿ ಕೇಂದ್ರಗಳಲ್ಲಿ ಬಿಸಿಯೂಟ, ಹಾಲು, ಮೊಟ್ಟೆ ಮತ್ತು ಪೌಷ್ಟಿಕ ಆಹಾರ ವಿತರಣೆ."
+    },
+    "benefits": {
+      "en": "Free wholesome midday meal daily at Anganwadi meeting 40-45% of daily calories and 50% protein requirements, plus IFA tablets.",
+      "hi": "दैनिक आवश्यक कैलोरी और प्रोटीन आवश्यकताओं को पूरा करने वाला निशुल्क पौष्टिक भोजन।",
+      "kn": "ಉಚಿತ ಪೌಷ್ಟಿಕ ಮಧ್ಯಾಹ್ನದ ಊಟ, ಕ್ಯಾಲ್ಸಿಯಂ ಮತ್ತು ಐರನ್ ಮಾತ್ರೆಗಳ ವಿತರಣೆ."
+    },
+    "documents": [
+      { "en": "Anganwadi Registration / Thayi Card", "hi": "आंगनवाड़ी पंजीकरण / थाई कार्ड", "kn": "ತಾಯಿ ಕಾರ್ಡ್ / ಅಂಗನವಾಡಿ ನೋಂದಣಿ" },
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" }
+    ],
+    "minAge": 18,
+    "maxAge": 45,
+    "maxIncome": null,
+    "genders": ["female"],
+    "castes": [],
+    "occupations": ["homemaker", "daily_wage", "farmer", "unemployed"],
+    "disability": false,
+    "applyLink": "https://dwcd.karnataka.gov.in/",
+    "sourceUrl": "https://dwcd.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "mythri-scheme-karnataka",
+    "level": "karnataka",
+    "category": "social_welfare",
+    "name": {
+      "en": "Mythri Scheme for Transgender Persons (Karnataka)",
+      "hi": "मैत्री योजना - ट्रांसजेंडर मासिक पेंशन (कर्नाटक)",
+      "kn": "ಮೈತ್ರಿ ಯೋಜನೆ - ತೃತೀಯ ಲಿಂಗಿಗಳಿಗೆ ಮಾಸಿಕ ಪಿಂಚಣಿ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "Monthly social security financial pension of ₹1,200 for transgender individuals living below poverty line in Karnataka.",
+      "hi": "कर्नाटक के गरीब ट्रांसजेंडर व्यक्तियों को सामाजिक सुरक्षा और सम्मान हेतु प्रतिमाह ₹1,200 की पेंशन।",
+      "kn": "ಕರ್ನಾಟಕದ ತೃತೀಯ ಲಿಂಗಿಗಳಿಗೆ ಸಾಮಾಜಿಕ ಭದ್ರತೆ ಮತ್ತು ಗೌರವಯುತ ಜೀವನಕ್ಕಾಗಿ ಮಾಸಿಕ ₹1,200 ಪಿಂಚಣಿ."
+    },
+    "benefits": {
+      "en": "₹1,200 per month deposited directly into beneficiary bank account to support basic living needs and health.",
+      "hi": "प्रतिमाह ₹1,200 की नकद वित्तीय सहायता सीधे लाभार्थी के बैंक खाते में।",
+      "kn": "ಪ್ರತಿ ತಿಂಗಳು ₹1,200 ನೇರ ನಗದು ಪಿಂಚಣಿ ಜಮೆ."
+    },
+    "documents": [
+      { "en": "Transgender Certificate / Identity Card issued by District Magistrate", "hi": "जिलाधिकारी द्वारा जारी ट्रांसजेंडर पहचान पत्र", "kn": "ಜಿಲ್ಲಾಧಿಕಾರಿಗಳಿಂದ ಪಡೆದ ತೃತೀಯ ಲಿಂಗಿ ಗುರುತಿನ ಚೀಟಿ" },
+      { "en": "Aadhaar Card & Bank Account", "hi": "आधार कार्ड एवं बैंक पासबुक", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್ ಮತ್ತು ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": 100000,
+    "genders": ["transgender"],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://nadakacheri.karnataka.gov.in/",
+    "sourceUrl": "https://welfare.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "karnataka-unnathi-scheme",
+    "level": "karnataka",
+    "category": "employment",
+    "name": {
+      "en": "Karnataka Unnathi Scheme (SC/ST Tech Startups)",
+      "hi": "कर्नाटक उन्नति योजना (एससी/एसटी टेक स्टार्टअप)",
+      "kn": "ಕರ್ನಾಟಕ ಉನ್ನತಿ ಯೋಜನೆ (ಪರಿಶಿಷ್ಟ ಜಾತಿ/ಪಂಗಡ ತಂತ್ರಜ್ಞಾನ ನವೋದ್ಯಮ)"
+    },
+    "shortDescription": {
+      "en": "Seed funding grants up to ₹50 lakh for innovative technology startups founded by SC and ST entrepreneurs in Karnataka.",
+      "hi": "कर्नाटक के अनुसूचित जाति एवं जनजाति के उद्यमियों द्वारा शुरू किए गए टेक स्टार्टअप्स को ₹50 लाख तक का सीड फंड अनुदान।",
+      "kn": "ಪರಿಶಿಷ್ಟ ಜಾತಿ ಮತ್ತು ಪಂಗಡದ ನವೋದ್ಯಮಿಗಳ ನವೀನ ತಂತ್ರಜ್ಞಾನ ಸ್ಟಾರ್ಟಪ್‌ಗಳಿಗೆ ₹50 ಲಕ್ಷದವರೆಗೆ ಸೀಡ್ ಫಂಡ್ ಅನುದಾನ."
+    },
+    "benefits": {
+      "en": "Financial grant up to ₹50,00,000 per startup without equity dilution, along with incubation and mentorship support.",
+      "hi": "बिना शेयरधारिता लिए ₹50 लाख तक का अनुदान, इन्क्यूबेशन और उद्योग मेंटरशिप सहयोग।",
+      "kn": "ಶೇರುಗಳ ಪಾಲುದಾರಿಕೆ ಇಲ್ಲದೆ ₹50 ಲಕ್ಷದವರೆಗೆ ಉಚಿತ ಸೀಡ್ ಫಂಡ್ ಮತ್ತು ತಜ್ಞರ ಮಾರ್ಗದರ್ಶನ."
+    },
+    "documents": [
+      { "en": "SC / ST Caste Certificate of Founders", "hi": "संस्थापक का जाति प्रमाण पत्र", "kn": "ಸಂಸ್ಥಾಪಕರ ಜಾತಿ ಪ್ರಮಾಣ ಪತ್ರ (SC/ST)" },
+      { "en": "Company Registration Certificate (MCA / DPIIT)", "hi": "कंपनी पंजीकरण प्रमाणपत्र", "kn": "ಕಂಪನಿ ನೋಂದಣಿ ಪತ್ರ (ಡಿಪಿಐಐಟಿ)" },
+      { "en": "Pitch Deck and Business Plan", "hi": "व्यवसाय प्रस्ताव एवं वित्तीय योजना", "kn": "ಪ್ರಾಜೆಕ್ಟ್ ಪ್ರಸ್ತಾವನೆ ಮತ್ತು ಹಣಕಾಸು ಯೋಜನೆ" }
+    ],
+    "minAge": 18,
+    "maxAge": 50,
+    "maxIncome": null,
+    "genders": [],
+    "castes": ["sc", "st"],
+    "occupations": ["entrepreneur", "salaried", "unemployed"],
+    "disability": false,
+    "applyLink": "https://startup.karnataka.gov.in/",
+    "sourceUrl": "https://sw.kar.nic.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "shrama-shakthi-scheme-karnataka",
+    "level": "karnataka",
+    "category": "employment",
+    "name": {
+      "en": "Shrama Shakthi Scheme (Karnataka)",
+      "hi": "श्रम शक्ति योजना (कर्नाटक)",
+      "kn": "ಶ್ರಮ ಶಕ್ತಿ ಯೋಜನೆ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "Micro-finance loan of ₹50,000 with 50% subsidy (₹25,000 grant) for minority traditional artisans and technical craftspersons.",
+      "hi": "अल्पसंख्यक पारंपरिक कारीगरों और हस्तशिल्पियों को ₹50,000 का ऋण जिसमें 50% (₹25,000) सरकारी अनुदान शामिल है।",
+      "kn": "ಅಲ್ಪಸಂಖ್ಯಾತ ಕುಶಲಕರ್ಮಿಗಳು ಮತ್ತು ಕಸುಬುದಾರರಿಗೆ ಶೇ. 50 ಸಹಾಯಧನದೊಂದಿಗೆ (₹25,000 ಉಚಿತ) ₹50,000 ಸಾಲ ಸೌಲಭ್ಯ."
+    },
+    "benefits": {
+      "en": "Loan of ₹50,000 where ₹25,000 is given as a direct subsidy/grant and ₹25,000 is repaid in easy 36 monthly installments at 4% interest.",
+      "hi": "₹25,000 का मुफ्त सरकारी अनुदान और शेष ₹25,000 मात्र 4% रियायती ब्याज पर 3 वर्ष में देय।",
+      "kn": "₹25,000 ಉಚಿತ ಸಹಾಯಧನ ಮತ್ತು ಉಳಿದ ₹25,000 ಕ್ಕೆ ಶೇ. 4 ರಿಯಾಯಿತಿ ಬಡ್ಡಿಯಲ್ಲಿ 36 ತಿಂಗಳ ಮರುಪಾವತಿ."
+    },
+    "documents": [
+      { "en": "Minority Community Certificate", "hi": "अल्पसंख्यक समुदाय प्रमाण पत्र", "kn": "ಅಲ್ಪಸಂಖ್ಯಾತ ಸಮುದಾಯ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Income Certificate (< ₹1.5 Lakh/yr)", "hi": "आय प्रमाण पत्र", "kn": "ಆದಾಯ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Trade / Skill Proof & Bank Account", "hi": "कारीगरी का प्रमाण एवं बैंक पासबुक", "kn": "ಕಸುಬಿನ ಪುರಾವೆ ಮತ್ತು ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 18,
+    "maxAge": 55,
+    "maxIncome": 150000,
+    "genders": [],
+    "castes": [],
+    "occupations": ["artisan", "daily_wage", "street_vendor"],
+    "disability": false,
+    "applyLink": "https://kmdc.karnataka.gov.in/",
+    "sourceUrl": "https://kmdc.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "koushalya-karnataka-skill-scheme",
+    "level": "karnataka",
+    "category": "employment",
+    "name": {
+      "en": "Koushalya Karnataka Scheme (CMKKY)",
+      "hi": "कौशल्या कर्नाटक योजना (मुख्यमंत्री कौशल विकास योजना)",
+      "kn": "ಕೌಶಲ್ಯ ಕರ್ನಾಟಕ ಯೋಜನೆ (ಮುಖ್ಯಮಂತ್ರಿ ಕೌಶಲ್ಯ ಅಭಿವೃದ್ಧಿ)"
+    },
+    "shortDescription": {
+      "en": "Free NSQF-aligned job-oriented skill training, certification, and direct placement support for unemployed Karnataka youth.",
+      "hi": "कर्नाटक के बेरोजगार युवाओं के लिए उद्योग-उन्मुख निशुल्क कौशल प्रशिक्षण, प्रमाणन और रोजगार सहायता।",
+      "kn": "ಕರ್ನಾಟಕದ ನಿರುದ್ಯೋಗಿ ಯುವಕ-ಯುವತಿಯರಿಗೆ ಉಚಿತ ಉದ್ಯೋಗಾಧಾರಿತ ಕೌಶಲ್ಯ ತರಬೇತಿ, ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಉದ್ಯೋಗಾವಕಾಶ."
+    },
+    "benefits": {
+      "en": "100% free certified vocational training in healthcare, IT, construction, logistics, and retail with minimum 70% placement assistance.",
+      "hi": "शत-प्रतिशत निशुल्क व्यावसायिक प्रशिक्षण, सरकारी प्रमाण पत्र और नौकरी के अवसर।",
+      "kn": "ಉಚಿತ ಕೌಶಲ್ಯ ತರಬೇತಿ, ಉಚಿತ ಊಟ-ವಸತಿ (ಅರ್ಹರಿಗೆ) ಮತ್ತು ಉದ್ಯೋಗ ನಿಯೋಜನೆ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Karnataka Domicile / School Certificate", "hi": "कर्नाटक अधिवास / शैक्षणिक प्रमाण", "kn": "ಕರ್ನಾಟಕ ವಾಸಸ್ಥಳ / ವ್ಯಾಸಂಗ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "10th / 12th / ITI Marksheet", "hi": "अंकतालिका", "kn": "ಅಂಕಪಟ್ಟಿ" }
+    ],
+    "minAge": 18,
+    "maxAge": 35,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["unemployed", "student", "daily_wage"],
+    "disability": false,
+    "applyLink": "https://kaushalkar.karnataka.gov.in/",
+    "sourceUrl": "https://kaushalkar.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "arundhati-scheme-karnataka",
+    "level": "karnataka",
+    "category": "women_empowerment",
+    "name": {
+      "en": "Karnataka Arundhati Scheme",
+      "hi": "कर्नाटक अरुंधति योजना",
+      "kn": "ಕರ್ನಾಟಕ ಅರುಂಧತಿ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Financial assistance of ₹25,000 for poor brides from economically weaker sections for their marriage.",
+      "hi": "आर्थिक रूप से कमजोर वर्ग की निर्धन कन्याओं के विवाह हेतु ₹25,000 की सीधी वित्तीय सहायता।",
+      "kn": "ಆರ್ಥಿಕವಾಗಿ ಹಿಂದುಳಿದ ಬಡ ಹೆಣ್ಣು ಮಕ್ಕಳ ವಿವಾಹಕ್ಕೆ ₹25,000 ನೇರ ಆರ್ಥಿಕ ಸಹಾಯಧನ."
+    },
+    "benefits": {
+      "en": "Direct bank transfer of ₹25,000 directly deposited to the bride's account upon solemnizing marriage.",
+      "hi": "विवाह संपन्न होने पर वधू के बैंक खाते में ₹25,000 की एकमुश्त अनुदान राशि।",
+      "kn": "ವಿವಾಹದ ನಂತರ ವಧುವಿನ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ₹25,000 ನೇರ ನಗದು ಜಮೆ."
+    },
+    "documents": [
+      { "en": "Marriage Registration Certificate / Invitation", "hi": "विवाह पंजीकरण प्रमाणपत्र", "kn": "ವಿವಾಹ ನೋಂದಣಿ ಪ್ರಮಾಣ ಪತ್ರ / ಲಗ್ನ ಪತ್ರಿಕೆ" },
+      { "en": "EWS / Income Certificate (< ₹5 Lakh/yr)", "hi": "ईडब्ल्यूएस / आय प्रमाण पत्र", "kn": "ಇಡಬ್ಲ್ಯೂಎಸ್ / ಆದಾಯ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Bride Aadhaar Card & Bank Account", "hi": "वधू का आधार एवं बैंक पासबुक", "kn": "ವಧುವಿನ ಆಧಾರ್ ಕಾರ್ಡ್ ಮತ್ತು ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 18,
+    "maxAge": 45,
+    "maxIncome": 500000,
+    "genders": ["female"],
+    "castes": ["ews", "general"],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://sevasindhu.karnataka.gov.in/",
+    "sourceUrl": "https://kswc.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "devadasi-rehabilitation-pension-karnataka",
+    "level": "karnataka",
+    "category": "women_empowerment",
+    "name": {
+      "en": "Devadasi Rehabilitation Scheme (Karnataka)",
+      "hi": "देवदासी पुनर्वास योजना (कर्नाटक)",
+      "kn": "ದೇವದಾಸಿ ಪುನರ್ವಸತಿ ಯೋಜನೆ (ಕರ್ನಾಟಕ)"
+    },
+    "shortDescription": {
+      "en": "Monthly pension of ₹2,000, housing assistance, and daughter's marriage incentive of ₹50,000 for rehabilitated Devadasi women.",
+      "hi": "पुनर्वासित पूर्व देवदासी महिलाओं को ₹2,000 प्रतिमाह पेंशन, आवास सहायता और पुत्री विवाह हेतु ₹50,000।",
+      "kn": "ಪುನರ್ವಸತಿ ಹೊಂದಿದ ಮಾಜಿ ದೇವದಾಸಿ ಮಹಿಳೆಯರಿಗೆ ಮಾಸಿಕ ₹2,000 ಪಿಂಚಣಿ, ವಸತಿ ಮತ್ತು ಹೆಣ್ಣು ಮಕ್ಕಳ ಮದುವೆಗೆ ₹50,000 ಪ್ರೋತ್ಸಾಹಧನ."
+    },
+    "benefits": {
+      "en": "Monthly pension of ₹2,000 via DBT, housing plot/grant, and ₹50,000 financial support for daughter's marriage.",
+      "hi": "मासिक ₹2,000 की आजीवन पेंशन, आवास अनुदान और कन्या विवाह हेतु ₹50,000 की सहायता।",
+      "kn": "ತಿಂಗಳಿಗೆ ₹2,000 ಪಿಂಚಣಿ ಮತ್ತು ಹೆಣ್ಣು ಮಕ್ಕಳ ಮದುವೆಗೆ ₹50,000 ಸಹಾಯಧನ."
+    },
+    "documents": [
+      { "en": "Certified Devadasi Survey Identity Card", "hi": "देवदासी सर्वेक्षण पहचान पत्र", "kn": "ದೇವದಾಸಿ ಸಮೀಕ್ಷೆ ಗುರುತಿನ ಚೀಟಿ" },
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Bank Passbook", "hi": "बैंक पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 45,
+    "maxAge": null,
+    "maxIncome": null,
+    "genders": ["female"],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://kswdc.karnataka.gov.in/",
+    "sourceUrl": "https://kswdc.karnataka.gov.in/",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  }
+]

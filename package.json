@@ -1,0 +1,10 @@
+{
+  "name": "scheme-saathi",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed"
+  }
+}

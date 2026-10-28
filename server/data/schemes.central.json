@@ -1,0 +1,919 @@
+[
+  {
+    "slug": "pm-kisan-samman-nidhi",
+    "level": "central",
+    "category": "agriculture",
+    "name": {
+      "en": "PM Kisan Samman Nidhi",
+      "hi": "प्रधानमंत्री किसान सम्मान निधि",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ"
+    },
+    "shortDescription": {
+      "en": "Financial benefit of ₹6,000 per year in three equal installments to all landholding farmer families.",
+      "hi": "सभी भूमिधारक किसान परिवारों को ₹6,000 प्रति वर्ष की तीन समान किस्तों में सीधी वित्तीय सहायता।",
+      "kn": "ಎಲ್ಲಾ ಕೃಷಿ ಭೂಮಿ ಹೊಂದಿರುವ ರೈತ ಕುಟುಂಬಗಳಿಗೆ ವರ್ಷಕ್ಕೆ ₹6,000 ಆರ್ಥಿಕ ನೆರವು (ಮೂರು ಕಂತುಗಳಲ್ಲಿ)."
+    },
+    "benefits": {
+      "en": "₹6,000 per year transferred directly into bank accounts in 3 installments of ₹2,000 every 4 months.",
+      "hi": "प्रति 4 माह में ₹2,000 की 3 किस्तों में सीधे बैंक खाते में ₹6,000 प्रति वर्ष।",
+      "kn": "ಪ್ರತಿ 4 ತಿಂಗಳಿಗೊಮ್ಮೆ ₹2,000 ದಂತೆ ವರ್ಷಕ್ಕೆ ಒಟ್ಟು ₹6,000 ನೇರ ನಗದು ವರ್ಗಾವಣೆ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Land Records (RoR / RTC)", "hi": "भूमि दस्तावेज (खतौनी)", "kn": "ಆರ್.ಟಿ.ಸಿ / ಪಹಣಿ ದಾಖಲೆ" },
+      { "en": "Bank Account Details", "hi": "बैंक खाता पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಖಾತೆ ವಿವರ" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["farmer"],
+    "disability": false,
+    "applyLink": "https://pmkisan.gov.in/RegistrationFormUpdated.aspx",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pm-kisan",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "ayushman-bharat-pmjay",
+    "level": "central",
+    "category": "healthcare",
+    "name": {
+      "en": "Ayushman Bharat PM-JAY",
+      "hi": "आयुष्मान भारत - प्रधानमंत्री जन आरोग्य योजना",
+      "kn": "ಆಯುಷ್ಮಾನ್ ಭಾರತ್ ಪ್ರಧಾನ ಮಂತ್ರಿ ಜನ ಆರೋಗ್ಯ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Free health insurance cover of up to ₹5,00,000 per family per year for secondary and tertiary care hospitalization.",
+      "hi": "द्वितीयक और तृतीयक अस्पताल में भर्ती के लिए प्रति परिवार प्रति वर्ष ₹5,00,000 तक का मुफ्त स्वास्थ्य बीमा।",
+      "kn": "ಪ್ರತಿ ಬಡ ಕುಟುಂಬಕ್ಕೆ ವರ್ಷಕ್ಕೆ ₹5,00,000 ವರೆಗೆ ಉಚಿತ ನಗದು ರಹಿತ ಆಸ್ಪತ್ರೆ ಚಿಕಿತ್ಸಾ ಸೌಲಭ್ಯ."
+    },
+    "benefits": {
+      "en": "Cashless and paperless access to healthcare services up to ₹5 Lakh at empaneled hospitals across India.",
+      "hi": "देशभर के सूचीबद्ध अस्पतालों में ₹5 लाख तक का कैशलेस और पेपरलेस उपचार।",
+      "kn": "ನೊಂದಾಯಿತ ಆಸ್ಪತ್ರೆಗಳಲ್ಲಿ ವಾರ್ಷಿಕ ₹5 ಲಕ್ಷದವರೆಗೆ ನಗದು ರಹಿತ ಚಿಕಿತ್ಸೆ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Ration Card (BPL)", "hi": "बीपीएल राशन कार्ड", "kn": "ಪಡಿತರ ಚೀಟಿ" }
+    ],
+    "minAge": null,
+    "maxAge": null,
+    "maxIncome": 250000,
+    "genders": [],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://beneficiary.nha.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/ab-pmjay",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pm-awas-yojana-urban",
+    "level": "central",
+    "category": "housing",
+    "name": {
+      "en": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
+      "hi": "प्रधानमंत्री आवास योजना - शहरी",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಆವಾಸ್ ಯೋಜನೆ - ನಗರ"
+    },
+    "shortDescription": {
+      "en": "Interest subsidy and financial assistance to eligible urban beneficiaries to construct or buy pucca houses.",
+      "hi": "शहरी पात्र लाभार्थियों को पक्के मकान निर्माण या खरीद हेतु ब्याज सब्सिडी और वित्तीय सहायता।",
+      "kn": "ನಗರ ಪ್ರದೇಶದ ಬಡವರಿಗೆ ಪಕ್ಕಾ ಮನೆ ನಿರ್ಮಿಸಲು ಅಥವಾ ಖರೀದಿಸಲು ಸಬ್ಸಿಡಿ ಮತ್ತು ಆರ್ಥಿಕ ನೆರವು."
+    },
+    "benefits": {
+      "en": "Up to ₹2.67 lakh interest subsidy on housing loans for EWS and LIG categories.",
+      "hi": "ईडब्ल्यूएस और एलआईजी श्रेणियों के लिए होम लोन पर ₹2.67 लाख तक की ब्याज सब्सिडी।",
+      "kn": "ಗೃಹ ಸಾಲದ ಮೇಲೆ ಗರಿಷ್ಠ ₹2.67 ಲಕ್ಷದವರೆಗೆ ಬಡ್ಡಿ ಸಬ್ಸಿಡಿ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Income Certificate", "hi": "आय प्रमाण पत्र", "kn": "ಆದಾಯ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Property / Land Deed", "hi": "जमीन दस्तावेज", "kn": "ನಿವೇಶನ ದಾಖಲೆ" }
+    ],
+    "minAge": 18,
+    "maxAge": 70,
+    "maxIncome": 600000,
+    "genders": [],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://pmaymis.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pmay-u",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pm-awas-yojana-gramin",
+    "level": "central",
+    "category": "housing",
+    "name": {
+      "en": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+      "hi": "प्रधानमंत्री आवास योजना - ग्रामीण",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಆವಾಸ್ ಯೋಜನೆ - ಗ್ರಾಮೀಣ"
+    },
+    "shortDescription": {
+      "en": "Direct financial assistance of ₹1.20 lakh in plains and ₹1.30 lakh in hilly areas to construct pucca houses.",
+      "hi": "ग्रामीण बेघर परिवारों को पक्के मकान के निर्माण हेतु ₹1.20 लाख से ₹1.30 लाख की सीधी सहायता।",
+      "kn": "ಗ್ರಾಮೀಣ ಭಾಗದ ಬಡ ಕುಟುಂಬಗಳಿಗೆ ಮನೆ ನಿರ್ಮಾಣಕ್ಕೆ ₹1.20 ಲಕ್ಷದಿಂದ ₹1.30 ಲಕ್ಷ ನೇರ ಸಹಾಯಧನ."
+    },
+    "benefits": {
+      "en": "Grant of ₹1,20,000 plus 90-95 days of unskilled labour under MGNREGS and ₹12,000 for toilet construction.",
+      "hi": "₹1,20,000 की वित्तीय सहायता, मनरेगा के तहत 90-95 दिन की मजदूरी और शौचालय हेतु ₹12,000।",
+      "kn": "₹1.20 ಲಕ್ಷ ನೇರ ನೆರವು, ನರೇಗಾ ಅಡಿಯಲ್ಲಿ ಕೂಲಿ ಹಣ ಮತ್ತು ಶೌಚಾಲಯ ನಿರ್ಮಾಣಕ್ಕೆ ₹12,000."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "MGNREGA Job Card", "hi": "मनरेगा जॉब कार्ड", "kn": "ನರೇಗಾ ಜಾಬ್ ಕಾರ್ಡ್" },
+      { "en": "Bank Account Passbook", "hi": "बैंक पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": 200000,
+    "genders": [],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://pmayg.nic.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pmay-g",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "sukanya-samriddhi-yojana",
+    "level": "central",
+    "category": "financial_inclusion",
+    "name": {
+      "en": "Sukanya Samriddhi Yojana (SSY)",
+      "hi": "सुकन्या समृद्धि योजना",
+      "kn": "ಸುಕನ್ಯಾ ಸಮೃದ್ಧಿ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Government-backed small deposit scheme for girl children offering 8.2% tax-free interest under Beti Bachao Beti Padhao.",
+      "hi": "10 वर्ष से कम आयु की बालिकाओं के लिए 8.2% कर-मुक्त ब्याज वाली बचत योजना।",
+      "kn": "10 ವರ್ಷದೊಳಗಿನ ಹೆಣ್ಣು ಮಕ್ಕಳ ಉನ್ನತ ವ್ಯಾಸಂಗಕ್ಕಾಗಿ ಗರಿಷ್ಠ ಬಡ್ಡಿ ನೀಡುವ ಸಣ್ಣ ಉಳಿತಾಯ ಯೋಜನೆ."
+    },
+    "benefits": {
+      "en": "8.2% annual interest rate, exempt-exempt-exempt (EEE) tax status under section 80C, matures when girl turns 21.",
+      "hi": "वार्षिक 8.2% ब्याज, धारा 80C के तहत पूर्ण कर छूट, बालिका की आयु 21 वर्ष होने पर परिपक्वता।",
+      "kn": "ವಾರ್ಷಿಕ 8.2% ಚಕ್ರಬಡ್ಡಿ ಮತ್ತು ಸಂಪೂರ್ಣ ಆದಾಯ ತೆರಿಗೆ ವಿನಾಯಿತಿ."
+    },
+    "documents": [
+      { "en": "Girl Child Birth Certificate", "hi": "बालिका जन्म प्रमाण पत्र", "kn": "ಹೆಣ್ಣು ಮಗುವಿನ ಜನನ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Parent / Guardian ID and Address Proof", "hi": "माता-पिता का आधार कार्ड", "kn": "ಪೋಷಕರ ಗುರುತಿನ ಚೀಟಿ" }
+    ],
+    "minAge": 0,
+    "maxAge": 10,
+    "maxIncome": null,
+    "genders": ["female"],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://www.indiapost.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/ssy",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pm-ujjwala-yojana-2",
+    "level": "central",
+    "category": "women_empowerment",
+    "name": {
+      "en": "Pradhan Mantri Ujjwala Yojana 2.0",
+      "hi": "प्रधानमंत्री उज्ज्वला योजना 2.0",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಉಜ್ವಲ ಯೋಜನೆ 2.0"
+    },
+    "shortDescription": {
+      "en": "Deposit-free LPG cooking gas connection with free first cylinder and gas stove to adult women from poor households.",
+      "hi": "गरीब परिवारों की वयस्क महिलाओं को बिना सुरक्षा जमा के मुफ्त एलपीजी गैस कनेक्शन, पहला सिलेंडर और चूल्हा।",
+      "kn": "ಬಡ ಕುಟುಂಬಗಳ ವಯಸ್ಕ ಮಹಿಳೆಯರಿಗೆ ಠೇವಣಿ ರಹಿತ ಉಚಿತ ಗ್ಯಾಸ್ ಸಂಪರ್ಕ, ಸಿಲಿಂಡರ್ ಮತ್ತು ಒಲೆ."
+    },
+    "benefits": {
+      "en": "Free connection, zero security deposit, free first 14.2 kg LPG refill and hotplate stove provided.",
+      "hi": "मुफ्त गैस कनेक्शन, पहला रिफिल सिलेंडर और गैस चूल्हा बिल्कुल निशुल्क।",
+      "kn": "ಉಚಿತ ಗ್ಯಾಸ್ ಸಂಪರ್ಕ, ಮೊದಲ ಸಿಲಿಂಡರ್ ಮತ್ತು ಗ್ಯಾಸ್ ಸ್ಟವ್ ಉಚಿತ."
+    },
+    "documents": [
+      { "en": "Woman Applicant Aadhaar Card", "hi": "महिला आवेदक का आधार कार्ड", "kn": "ಮಹಿಳಾ ಅರ್ಜಿದಾರರ ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Ration Card / BPL Proof", "hi": "राशन कार्ड", "kn": "ಪಡಿತರ ಚೀಟಿ" },
+      { "en": "Bank Account Passbook", "hi": "बैंक पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": 250000,
+    "genders": ["female"],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://www.pmuy.gov.in/ujjwala2.html",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pmuy",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pm-svanidhi",
+    "level": "central",
+    "category": "employment",
+    "name": {
+      "en": "PM SVANidhi (Street Vendors Scheme)",
+      "hi": "पीएम स्वनिधि योजना",
+      "kn": "ಪಿಎಂ ಸ್ವನಿಧಿ ಬೀದಿ ವ್ಯಾಪಾರಿಗಳ ಸಾಲ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Collateral-free working capital micro-credit loan facility starting at ₹10,000 up to ₹50,000 with 7% interest subsidy.",
+      "hi": "रेहड़ी-पटरी विक्रेताओं के लिए ₹10,000 से ₹50,000 तक का सस्ता कार्यशील पूंजी ऋण एवं 7% ब्याज सब्सिडी।",
+      "kn": "ಬೀದಿ ಬದಿ ವ್ಯಾಪಾರಿಗಳಿಗೆ ₹10,000 ರಿಂದ ₹50,000 ವರೆಗೆ ಶೇ. 7 ಬಡ್ಡಿ ಸಬ್ಸಿಡಿಯೊಂದಿಗೆ ಕಿರು ಸಾಲ ಸೌಲಭ್ಯ."
+    },
+    "benefits": {
+      "en": "First tranche loan of ₹10,000; on repayment ₹20,000, and 3rd tranche ₹50,000 with 7% annual interest subsidy.",
+      "hi": "बिना गारंटी ₹10,000, ₹20,000 और ₹50,000 का ऋण और डिजिटल लेनदेन पर ₹1,200/वर्ष तक कैशबैक।",
+      "kn": "ಜಾಮೀನು ರಹಿತ ಹಂತ ಹಂತವಾಗಿ ₹50,000 ವರೆಗೆ ಸಾಲ ಮತ್ತು ಡಿಜಿಟಲ್ ಪಾವತಿಗೆ ಕ್ಯಾಶ್‌ಬ್ಯಾಕ್."
+    },
+    "documents": [
+      { "en": "Certificate of Vending / Vendor ID Card", "hi": "वेंडिंग प्रमाणपत्र या आईडी कार्ड", "kn": "ಬೀದಿ ವ್ಯಾಪಾರಿ ಗುರುತಿನ ಚೀಟಿ" },
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Bank Passbook", "hi": "बैंक पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 18,
+    "maxAge": 65,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["street_vendor"],
+    "disability": false,
+    "applyLink": "https://pmsvanidhi.mohua.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pmsvanidhi",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pm-vishwakarma",
+    "level": "central",
+    "category": "employment",
+    "name": {
+      "en": "PM Vishwakarma Scheme",
+      "hi": "पीएम विश्वकर्मा योजना",
+      "kn": "ಪಿಎಂ ವಿಶ್ವಕರ್ಮ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Recognition, skill training stipend of ₹500/day, ₹15,000 modern toolkit grant, and 5% enterprise loans up to ₹3 Lakh.",
+      "hi": "पारंपरिक 18 शिल्पकारों को ₹500/दिन वजीफा, ₹15,000 टूलकिट ग्रांट और 5% ब्याज पर ₹3 लाख तक का ऋण।",
+      "kn": "ಸಾಂಪ್ರದಾಯಿಕ ಕುಶಲಕರ್ಮಿಗಳಿಗೆ ದಿನಕ್ಕೆ ₹500 ಭತ್ಯೆಯೊಂದಿಗೆ ತರಬೇತಿ, ₹15,000 ಟೂಲ್‌ಕಿಟ್ ಮತ್ತು ₹3 ಲಕ್ಷ ಸಾಲ."
+    },
+    "benefits": {
+      "en": "PM Vishwakarma Certificate & ID, basic & advanced training with stipend, ₹15,000 toolkit voucher, and collateral-free loan at 5%.",
+      "hi": "पहचान पत्र, ₹500 दैनिक वजीफे के साथ प्रशिक्षण, ₹15,000 टूलकिट ई-वाउचर और ₹3,00,000 तक रियायती ऋण।",
+      "kn": "ಪ್ರಮಾಣಪತ್ರ, ₹15,000 ಟೂಲ್‌ಕಿಟ್ ವೋಚರ್ ಮತ್ತು ಶೇ. 5 ರಿಯಾಯಿತಿ ಬಡ್ಡಿಯಲ್ಲಿ ₹3 ಲಕ್ಷದವರೆಗೆ ಸಾಲ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card & Active Mobile Number", "hi": "आधार कार्ड एवं मोबाइल नंबर", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್ ಮತ್ತು ಮೊಬೈಲ್ ಸಂಖ್ಯೆ" },
+      { "en": "Bank Passbook", "hi": "बैंक पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಖಾತೆ ಪುಸ್ತಕ" }
+    ],
+    "minAge": 18,
+    "maxAge": 65,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["artisan"],
+    "disability": false,
+    "applyLink": "https://pmvishwakarma.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pm-vishwakarma",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "stand-up-india",
+    "level": "central",
+    "category": "financial_inclusion",
+    "name": {
+      "en": "Stand-Up India Scheme",
+      "hi": "स्टैंड-अप इंडिया योजना",
+      "kn": "ಸ್ಟ್ಯಾಂಡ್-ಅಪ್ ಇಂಡಿಯಾ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Bank loans between ₹10 lakh and ₹1 crore to SC, ST, and Women borrowers for setting up greenfield enterprises.",
+      "hi": "अनुसूचित जाति, अनुसूचित जनजाति और महिला उद्यमियों को नए उद्यम शुरू करने हेतु ₹10 लाख से ₹1 करोड़ तक बैंक ऋण।",
+      "kn": "ಪರಿಶಿಷ್ಟ ಜಾತಿ, ಪರಿಶಿಷ್ಟ ಪಂಗಡ ಮತ್ತು ಮಹಿಳಾ ಉದ್ಯಮಿಗಳಿಗೆ ಹೊಸ ಉದ್ಯಮ ಸ್ಥಾಪಿಸಲು ₹10 ಲಕ್ಷದಿಂದ ₹1 ಕೋಟಿವರೆಗೆ ಸಾಲ."
+    },
+    "benefits": {
+      "en": "Composite bank loans from ₹10 Lakh to ₹100 Lakh covering up to 85% of project cost for non-farm sectors.",
+      "hi": "विनಿರ್माण, सेवा या व्यापार में नए प्रोजेक्ट हेतु ₹10 लाख से ₹1 करोड़ तक का बैंक ऋण।",
+      "kn": "ಹೊಸ ವ್ಯವಹಾರಕ್ಕೆ ಯೋಜನಾ ವೆಚ್ಚದ ಶೇ. 85 ರವರೆಗೆ ₹10 ಲಕ್ಷದಿಂದ ₹1 ಕೋಟಿ ಸಾಲ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card / PAN Card", "hi": "आधार / पैन कार्ड", "kn": "ಆಧಾರ್ / ಪ್ಯಾನ್ ಕಾರ್ಡ್" },
+      { "en": "Caste Certificate (for SC/ST)", "hi": "जाति प्रमाण पत्र", "kn": "ಜಾತಿ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Detailed Project Report (DPR)", "hi": "विस्तृत परियोजना रिपोर्ट", "kn": "ಯೋಜನಾ ವರದಿ (ಡಿಪಿಆರ್)" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": null,
+    "genders": ["female"],
+    "castes": ["sc", "st"],
+    "occupations": ["entrepreneur", "artisan", "salaried", "unemployed"],
+    "disability": false,
+    "applyLink": "https://www.standupmitra.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/suis",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "post-matric-scholarship-sc-st-obc",
+    "level": "central",
+    "category": "education",
+    "name": {
+      "en": "Post-Matric Scholarship for SC/ST/OBC Students",
+      "hi": "अनुसूचित जाति/जनजाति/ओबीसी छात्रों हेतु पोस्ट-मैट्रिक छात्रवृत्ति",
+      "kn": "ಪರಿಶಿಷ್ಟ ಜಾತಿ/ಪಂಗಡ/ಹಿಂದುಳಿದ ವರ್ಗಗಳ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ"
+    },
+    "shortDescription": {
+      "en": "100% compulsory tuition fee reimbursement and monthly maintenance allowances for students pursuing post-matric courses.",
+      "hi": "दसवीं कक्षा के बाद अध्ययनरत वंचित वर्ग के मेधावी विद्यार्थियों के लिए सम्पूर्ण शिक्षण शुल्क प्रतिपूर्ति एवं भत्ता।",
+      "kn": "ಎಸ್ಸೆಸ್ಸೆಲ್ಸಿ ನಂತರದ ವ್ಯಾಸಂಗ ಮಾಡುತ್ತಿರುವ ಬಡ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸಂಪೂರ್ಣ ಕಾಲೇಜು ಶುಲ್ಕ ಮರುಪಾವತಿ ಮತ್ತು ಭತ್ಯೆ."
+    },
+    "benefits": {
+      "en": "Full non-refundable fee reimbursement plus up to ₹1,200 per month living stipend directly transferred via DBT.",
+      "hi": "अनिवार्य कॉलेज शुल्क की प्रतिपूर्ति और ₹1,200 प्रति माह तक निर्वाह भत्ता।",
+      "kn": "ಶೇ 100 ರಷ್ಟು ಕಾಲೇಜು ಶುಲ್ಕ ಮರುಪಾವತಿ ಮತ್ತು ತಿಂಗಳಿಗೆ ₹1,200 ವರೆಗೆ ನಿರ್ವಹಣಾ ಭತ್ಯೆ."
+    },
+    "documents": [
+      { "en": "Caste Certificate", "hi": "जाति प्रमाण पत्र", "kn": "ಜಾತಿ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Annual Income Certificate (< ₹2.5 Lakh)", "hi": "आय प्रमाण पत्र", "kn": "ಆದಾಯ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Marksheet of Previous Exam", "hi": "गत वर्ष की अंकतालिका", "kn": "ಹಿಂದಿನ ವರ್ಷದ ಅಂಕಪಟ್ಟಿ" },
+      { "en": "College Fee Receipt", "hi": "कॉलेज शुल्क रसीद", "kn": "ಕಾಲೇಜು ಶುಲ್ಕ ರಶೀದಿ" }
+    ],
+    "minAge": 15,
+    "maxAge": 35,
+    "maxIncome": 250000,
+    "genders": [],
+    "castes": ["sc", "st", "obc"],
+    "occupations": ["student"],
+    "disability": false,
+    "applyLink": "https://scholarships.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pms-sc",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "indira-gandhi-old-age-pension",
+    "level": "central",
+    "category": "social_welfare",
+    "name": {
+      "en": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+      "hi": "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन योजना",
+      "kn": "ಇಂದಿರಾ ಗಾಂಧಿ ರಾಷ್ಟ್ರೀಯ ವೃದ್ಧಾಪ್ಯ ಪಿಂಚಣಿ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Monthly non-contributory pension for senior citizens aged 60 and above living below the poverty line.",
+      "hi": "गरीबी रेखा से नीचे रहने वाले 60 वर्ष या अधिक आयु के बुजुर्गों के लिए मासिक सामाजिक सुरक्षा पेंशन।",
+      "kn": "ಬಡತನ ರೇಖೆಗಿಂತ ಕೆಳಗಿರುವ 60 ವರ್ಷ ಮೇಲ್ಪಟ್ಟ ಹಿರಿಯ ನಾಗರಿಕರಿಗೆ ಮಾಸಿಕ ವೃದ್ಧಾಪ್ಯ ಪಿಂಚಣಿ."
+    },
+    "benefits": {
+      "en": "Monthly pension of ₹500 to ₹1,000 directly deposited into the pensioner's Aadhaar-linked bank account.",
+      "hi": "प्रति माह ₹500 से ₹1,000 की वित्तीय सहायता सीधे बैंक खाते में।",
+      "kn": "ತಿಂಗಳಿಗೆ ₹500 ರಿಂದ ₹1,000 ವರೆಗೆ ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಪಿಂಚಣಿ ನೇರ ಜಮೆ."
+    },
+    "documents": [
+      { "en": "Age Verification Document (Aadhaar / Voter ID)", "hi": "आयु प्रमाण पत्र", "kn": "ವಯಸ್ಸಿನ ದೃಢೀಕರಣ ಪತ್ರ" },
+      { "en": "BPL Ration Card", "hi": "बीपीएल कार्ड", "kn": "ಬಿಪಿಎಲ್ ಪಡಿತರ ಚೀಟಿ" },
+      { "en": "Bank Account Passbook", "hi": "बैंक पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 60,
+    "maxAge": null,
+    "maxIncome": 150000,
+    "genders": [],
+    "castes": [],
+    "occupations": ["retired", "daily_wage", "unemployed"],
+    "disability": false,
+    "applyLink": "https://nsap.nic.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/ignoaps",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "divyangjan-swavalamban-nhfdc",
+    "level": "central",
+    "category": "social_welfare",
+    "name": {
+      "en": "Divyangjan Swavalamban Scheme (NHFDC)",
+      "hi": "दिव्यांगजन स्वावलंबन योजना",
+      "kn": "ದಿವ್ಯಾಂಗಜನ ಸ್ವಾವಲಂಬನ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Concessional loans up to ₹50 lakh for persons with disabilities (>40%) to pursue higher education, self-employment, and skill development.",
+      "hi": "40% से अधिक दिव्यांग व्यक्तियों के स्वरोजगार और शिक्षा हेतु 5% से 8% रियायती ब्याज पर ऋण।",
+      "kn": "ಶೇ. 40 ಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಂಗವಿಕಲತೆ ಹೊಂದಿರುವ ವ್ಯಕ್ತಿಗಳಿಗೆ ಸ್ವಯಂ ಉದ್ಯೋಗ ಮತ್ತು ಶಿಕ್ಷಣಕ್ಕಾಗಿ ರಿಯಾಯಿತಿ ಸಾಲ."
+    },
+    "benefits": {
+      "en": "Loans up to ₹50,00,000 at concessional interest rates of 5% - 8%, with a 0.5% interest rebate for women with disabilities.",
+      "hi": "रियायती 5-8% ब्याज पर ₹50 लाख तक ऋण, दिव्यांग महिलाओं को 0.5% अतिरिक्त ब्याज छूट।",
+      "kn": "ಶೇಕಡಾ 5 ರಿಂದ 8 ರಷ್ಟು ಕಡಿಮೆ ಬಡ್ಡಿದರದಲ್ಲಿ ₹50 ಲಕ್ಷದವರೆಗೆ ಸಾಲ ಸೌಲಭ್ಯ."
+    },
+    "documents": [
+      { "en": "Disability Certificate / UDID Card (>40%)", "hi": "यूडीआईडी कार्ड / दिव्यांगता प्रमाण पत्र", "kn": "ಯುಡಿಐಡಿ ಕಾರ್ಡ್ / ಅಂಗವಿಕಲತೆ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Business Proposal / Admission Proof", "hi": "व्यवसाय प्रस्ताव", "kn": "ವ್ಯಾಪಾರ ಯೋಜನೆ / ಪ್ರವೇಶ ದಾಖಲೆ" }
+    ],
+    "minAge": 18,
+    "maxAge": 65,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": [],
+    "disability": true,
+    "applyLink": "http://www.nhfdc.nic.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/dss-nhfdc",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pm-mudra-yojana-shishu",
+    "level": "central",
+    "category": "financial_inclusion",
+    "name": {
+      "en": "Pradhan Mantri MUDRA Yojana (Shishu)",
+      "hi": "प्रधानमंत्री मुद्रा योजना (शिशु श्रेणी)",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಮುದ್ರಾ ಯೋಜನೆ (ಶಿಶು ಸಾಲ)"
+    },
+    "shortDescription": {
+      "en": "Collateral-free micro loans up to ₹50,000 for small shopkeepers, micro enterprises, and start-up entrepreneurs.",
+      "hi": "छोटे दुकानदारों और नए उद्यमियों को बिना किसी गारंटी ₹50,000 तक का संस्थागत ऋण।",
+      "kn": "ಸಣ್ಣ ವ್ಯಾಪಾರಿಗಳು ಮತ್ತು ಹೊಸ ಉದ್ಯಮಿಗಳಿಗೆ ಯಾವುದೇ ಜಾಮೀನು ಇಲ್ಲದೆ ₹50,000 ವರೆಗೆ ಮುದ್ರಾ ಸಾಲ."
+    },
+    "benefits": {
+      "en": "Zero collateral loans up to ₹50,000 with nominal processing fees and flexible repayment tenure up to 5 years.",
+      "hi": "बिना संपत्ति बंधक रखे ₹50,000 तक का सस्ता व्यापार ऋण और 5 वर्ष की आसान चुकौती।",
+      "kn": "ಯಾವುದೇ ಅಡಮಾನವಿಲ್ಲದೆ ₹50,000 ವರೆಗೆ ಸಾಲ ಮತ್ತು 5 ವರ್ಷಗಳ ಮರುಪಾವತಿ ಅವಧಿ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card & PAN Card", "hi": "आधार एवं पैन कार्ड", "kn": "ಆಧಾರ್ ಮತ್ತು ಪ್ಯಾನ್ ಕಾರ್ಡ್" },
+      { "en": "Business Proof / Quotation of Machinery", "hi": "व्यवसाय कोटेशन", "kn": "ವ್ಯಾಪಾರ ದಾಖಲೆ ಅಥವಾ ಕೊಟೇಶನ್" },
+      { "en": "Bank Statement", "hi": "बैंक विवरण", "kn": "ಬ್ಯಾಂಕ್ ಸ್ಟೇಟ್‌ಮೆಂಟ್" }
+    ],
+    "minAge": 18,
+    "maxAge": 65,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["entrepreneur", "artisan", "street_vendor", "daily_wage"],
+    "disability": false,
+    "applyLink": "https://www.udyamimitra.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pmmy",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "atal-pension-yojana",
+    "level": "central",
+    "category": "social_welfare",
+    "name": {
+      "en": "Atal Pension Yojana (APY)",
+      "hi": "अटल पेंशन योजना",
+      "kn": "ಅಟಲ್ ಪಿಂಚಣಿ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Guaranteed monthly pension of ₹1,000 to ₹5,000 for unorganized sector workers starting at age 60.",
+      "hi": "असंगठित क्षेत्र के कामगारों के लिए 60 वर्ष की आयु के बाद ₹1,000 से ₹5,000 की निश्चित मासिक पेंशन।",
+      "kn": "ಅಸಂಘಟಿತ ವಲಯದ ಕಾರ್ಮಿಕರಿಗೆ 60 ವರ್ಷ ತುಂಬಿದ ನಂತರ ತಿಂಗಳಿಗೆ ₹1,000 ದಿಂದ ₹5,000 ಗ್ಯಾರಂಟಿ ಪಿಂಚಣಿ."
+    },
+    "benefits": {
+      "en": "Government guaranteed minimum pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000 or ₹5,000 per month upon reaching age 60.",
+      "hi": "60 वर्ष के बाद प्रतिमाह ₹1,000 से ₹5,000 की आजीवन सरकारी गारंटीड पेंशन।",
+      "kn": "ನಿವೃತ್ತಿ ನಂತರ ಪ್ರತಿ ತಿಂಗಳು ಖಚಿತ ಪಿಂಚಣಿ ಮತ್ತು ಕುಟುಂಬಕ್ಕೆ ಭದ್ರತೆ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Savings Bank Account / Post Office Account", "hi": "बैंक खाता पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಉಳಿತಾಯ ಖಾತೆ ಪುಸ್ತಕ" }
+    ],
+    "minAge": 18,
+    "maxAge": 40,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["daily_wage", "farmer", "artisan", "street_vendor", "unemployed"],
+    "disability": false,
+    "applyLink": "https://enps.nsdl.com/eNPS/ApySubRegistration.html",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/apy",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pradhan-mantri-suraksha-bima-yojana",
+    "level": "central",
+    "category": "financial_inclusion",
+    "name": {
+      "en": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+      "hi": "प्रधानमंत्री सुरक्षा बीमा योजना",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಸುರಕ್ಷಾ ಬಿಮಾ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Accidental death and disability insurance cover of ₹2,00,000 for an annual premium of just ₹20.",
+      "hi": "मात्र ₹20 के वार्षिक प्रीमियम पर ₹2 लाख का आकस्मिक मृत्यु और स्थायी विकलांगता बीमा कवर।",
+      "kn": "ವರ್ಷಕ್ಕೆ ಕೇವಲ ₹20 ಪ್ರೀಮಿಯಂನಲ್ಲಿ ₹2,00,000 ವರೆಗೆ ಅಪಘಾತ ವಿಮಾ ರಕ್ಷಣೆ."
+    },
+    "benefits": {
+      "en": "₹2,00,000 for accidental death or total permanent disability, and ₹1,00,000 for partial permanent disability.",
+      "hi": "दुर्घटना में मृत्यु अथवा पूर्ण विकलांगता पर ₹2 लाख तथा आंशिक विकलांगता पर ₹1 लाख का भुगतान।",
+      "kn": "ಆಕಸ್ಮಿಕ ಸಾವು ಅಥವಾ ಶಾಶ್ವತ ಅಂಗವೈಕಲ್ಯಕ್ಕೆ ₹2 ಲಕ್ಷ, ಭಾಗಶಃ ಅಂಗವೈಕಲ್ಯಕ್ಕೆ ₹1 ಲಕ್ಷ ಪರಿಹಾರ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Bank Account with Auto-Debit Consent", "hi": "बैंक खाता पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಖಾತೆ ವಿವರ" }
+    ],
+    "minAge": 18,
+    "maxAge": 70,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://www.jansuraksha.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pmsby",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pradhan-mantri-jeevan-jyoti-bima-yojana",
+    "level": "central",
+    "category": "financial_inclusion",
+    "name": {
+      "en": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+      "hi": "प्रधानमंत्री जीवन ज्योति बीमा योजना",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಜೀವನ್ ಜ್ಯೋತಿ ಬಿಮಾ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Life insurance coverage of ₹2,00,000 in case of death due to any cause at an annual premium of ₹436.",
+      "hi": "किसी भी कारण से मृत्यु होने पर ₹436 के वार्षिक प्रीमियम पर ₹2 लाख का जीवन बीमा कवर।",
+      "kn": "ಯಾವುದೇ ಕಾರಣದಿಂದ ಸಾವು ಸಂಭವಿಸಿದರೆ ವಾರ್ಷಿಕ ₹436 ಪ್ರೀಮಿಯಂನಲ್ಲಿ ₹2,00,000 ಜೀವ ವಿಮಾ ರಕ್ಷಣೆ."
+    },
+    "benefits": {
+      "en": "₹2,00,000 death cover payable to the nominee of the subscriber upon death due to any reason.",
+      "hi": "किसी भी कारण से मृत्यु पर नामित व्यक्ति (नॉमिनी) को ₹2,00,000 की एकमुश्त सहायता राशि।",
+      "kn": "ಖಾತೆದಾರರ ನಿಧನದ ಸಂದರ್ಭದಲ್ಲಿ ನಾಮಿನಿಗೆ ₹2,00,000 ಪರಿಹಾರ ಮೊತ್ತ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Bank Account with Auto-Debit Consent", "hi": "बैंक खाता विवरण", "kn": "ಬ್ಯಾಂಕ್ ಖಾತೆ ವಿವರ" }
+    ],
+    "minAge": 18,
+    "maxAge": 50,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": [],
+    "disability": false,
+    "applyLink": "https://www.jansuraksha.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pmjjby",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pm-poshan-mid-day-meal",
+    "level": "central",
+    "category": "education",
+    "name": {
+      "en": "PM POSHAN (Mid-Day Meal Scheme)",
+      "hi": "पीएम पोषण (मध्याह्न भोजन योजना)",
+      "kn": "ಪಿಎಂ ಪೋಷಣ್ (ಬಿಸಿಯೂಟ ಯೋಜನೆ)"
+    },
+    "shortDescription": {
+      "en": "Free hot cooked nutritious meals every school day to children studying in government and aided schools from class 1 to 8.",
+      "hi": "सरकारी और सहायता प्राप्त स्कूलों में कक्षा 1 से 8 तक के बच्चों को निशुल्क पौष्टिक गर्म पका हुआ भोजन।",
+      "kn": "ಸರ್ಕಾರಿ ಮತ್ತು ಅನುದಾನಿತ ಶಾಲೆಗಳ 1 ರಿಂದ 8 ನೇ ತರಗತಿ ಮಕ್ಕಳಿಗೆ ಉಚಿತ ಪೌಷ್ಟಿಕ ಬಿಸಿಯೂಟ."
+    },
+    "benefits": {
+      "en": "Nutritious daily meal with mandated calorie and protein standards improving nutrition and school retention.",
+      "hi": "प्रति विद्यालय दिवस अनिवार्य कैलोरी एवं प्रोटीन युक्त गर्म पौष्टिक भोजन।",
+      "kn": "ಪ್ರತಿದಿನ ಶಾಲೆಗಳಲ್ಲಿ ಪೌಷ್ಟಿಕ ಬಿಸಿಯೂಟ ಮತ್ತು ಹಾಲು ವಿತರಣೆ."
+    },
+    "documents": [
+      { "en": "Government School Enrollment / Student ID", "hi": "स्कूल प्रवेश प्रमाण पत्र", "kn": "ಶಾಲಾ ದಾಖಲಾತಿ ಪತ್ರ" }
+    ],
+    "minAge": 5,
+    "maxAge": 14,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["student"],
+    "disability": false,
+    "applyLink": "https://pmposhan.education.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pm-poshan",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "national-apprenticeship-promotion-scheme",
+    "level": "central",
+    "category": "employment",
+    "name": {
+      "en": "National Apprenticeship Promotion Scheme (NAPS)",
+      "hi": "राष्ट्रीय शिक्षुता संवर्धन योजना (NAPS)",
+      "kn": "ರಾಷ್ಟ್ರೀಯ ಅಪ್ರೆಂಟಿಸ್‌ಶಿಪ್ ಪ್ರೋತ್ಸಾಹ ಯೋಜನೆ (ನ್ಯಾಪ್ಸ್)"
+    },
+    "shortDescription": {
+      "en": "Direct stipend support of up to ₹1,500 per month to apprentices undergoing industry on-the-job training.",
+      "hi": "उद्योगों में व्यावहारिक प्रशिक्षण प्राप्त कर रहे युवाओं को प्रतिमाह ₹1,500 तक का सरकारी वजीफा सहयोग।",
+      "kn": "ಕೈಗಾರಿಕಾ ತರಬೇತಿ ಪಡೆಯುವ ಯುವಕರಿಗೆ ತಿಂಗಳಿಗೆ ₹1,500 ವರೆಗೆ ನೇರ ಶಿಷ್ಯವೇತನ ಬೆಂಬಲ."
+    },
+    "benefits": {
+      "en": "Government reimburses 25% of prescribed stipend up to ₹1,500 per month per apprentice directly to bank accounts.",
+      "hi": "निर्धारित वजीफे का 25% (अधिकतम ₹1,500 प्रति माह) सीधे प्रशिक्षु के खाते में।",
+      "kn": "ಪ್ರತಿ ತಿಂಗಳು ₹1,500 ವರೆಗೆ ಶಿಷ್ಯವೇತನ ನೇರ ನಗದು ವರ್ಗಾವಣೆ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "ITI / Diploma / 10th / 12th Certificate", "hi": "शैक्षणिक योग्यता प्रमाण पत्र", "kn": "ವಿದ್ಯಾರ್ಹತೆ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Bank Account Details", "hi": "बैंक खाता पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಖಾತೆ ವಿವರ" }
+    ],
+    "minAge": 14,
+    "maxAge": 35,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["student", "unemployed"],
+    "disability": false,
+    "applyLink": "https://www.apprenticeshipindia.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/naps",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pm-matsya-sampada-yojana",
+    "level": "central",
+    "category": "agriculture",
+    "name": {
+      "en": "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+      "hi": "प्रधानमंत्री मत्स्य संपदा योजना",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಮತ್ಸ್ಯ ಸಂಪದ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "40% to 60% capital subsidy for fishers, fish farmers, and SHGs to construct ponds, biofloc, and acquire boats.",
+      "hi": "मछली पालकों, मछुआरों और स्वयं सहायता समूहों को तालाब निर्माण, उपकरण और नौकाओं पर 40% से 60% अनुदान।",
+      "kn": "ಮೀನುಗಾರರು ಮತ್ತು ರೈತರಿಗೆ ಮೀನು ಕೃಷಿ ಕೊಳ ನಿರ್ಮಾಣ ಮತ್ತು ಬೋಟ್ ಖರೀದಿಗೆ ಶೇ. 40 ರಿಂದ 60 ಸಬ್ಸಿಡಿ."
+    },
+    "benefits": {
+      "en": "40% project cost subsidy for general category and 60% for SC, ST, and Women beneficiaries for fisheries infrastructure.",
+      "hi": "सामान्य वर्ग को 40% तथा महिला, एससी और एसटी लाभार्थियों को 60% तक की भारी वित्तीय सब्सिडी।",
+      "kn": "ಸಾಮಾನ್ಯ ವರ್ಗಕ್ಕೆ ಶೇ. 40 ಮತ್ತು ಮಹಿಳೆಯರು/ಪರಿಶಿಷ್ಟ ಜಾತಿ/ಪಂಗಡದವರಿಗೆ ಶೇ. 60 ರಿಯಾಯಿತಿ ಸಬ್ಸಿಡಿ."
+    },
+    "documents": [
+      { "en": "Fisher Identity Proof / Aadhaar", "hi": "मछुआरा पहचान पत्र / आधार", "kn": "ಮೀನುಗಾರ ಗುರುತಿನ ಚೀಟಿ / ಆಧಾರ್" },
+      { "en": "Land / Water Body Lease or Ownership Document", "hi": "भूमि अथवा जल निकाय का पट्टा", "kn": "ಜಮೀನು ಅಥವಾ ಜಲಮೂಲದ ಹಕ್ಕು ಪತ್ರ" },
+      { "en": "Detailed Project Report", "hi": "परियोजना रिपोर्ट", "kn": "ಯೋಜನಾ ವರದಿ" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["farmer", "entrepreneur", "daily_wage"],
+    "disability": false,
+    "applyLink": "https://pmmsy.dof.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pmmsy",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pm-kusum-solar-pump",
+    "level": "central",
+    "category": "agriculture",
+    "name": {
+      "en": "PM-KUSUM Scheme (Solar Agriculture Pumps)",
+      "hi": "पीएम-कुसुम योजना (सौर कृषि पंप)",
+      "kn": "ಪಿಎಂ-ಕುಸುಮ್ ಯೋಜನೆ (ಸೌರ ಕೃಷಿ ಪಂಪ್)"
+    },
+    "shortDescription": {
+      "en": "Up to 60% subsidy for farmers to install standalone off-grid solar agricultural pumps and solarize existing grid pumps.",
+      "hi": "किसानों को स्टैंडअलोन सोलर कृषि पंप स्थापित करने हेतु 60% तक की संयुक्त सरकारी सब्सिडी।",
+      "kn": "ರೈತರಿಗೆ ನೀರಾವರಿಗಾಗಿ ಸೌರ ವಿದ್ಯುತ್ ಪಂಪ್‌ಸೆಟ್ ಅಳವಡಿಸಲು ಶೇ. 60 ರವರೆಗೆ ಸಬ್ಸಿಡಿ ನೆರವು."
+    },
+    "benefits": {
+      "en": "Central Government provides 30% subsidy, State provides 30%, farmer pays only 40% (with up to 30% bank loan option).",
+      "hi": "केंद्र से 30% और राज्य सरकार से 30% सब्सिडी; किसान को मात्र 10% से 40% अंशदान देना होता है।",
+      "kn": "ಕೇಂದ್ರದಿಂದ ಶೇ. 30 ಮತ್ತು ರಾಜ್ಯದಿಂದ ಶೇ. 30 ಸಹಾಯಧನ; ರೈತರಿಗೆ ಕೇವಲ ಶೇ. 10-40 ಪಾಲಿನಲ್ಲಿ ಸೋಲಾರ್ ಪಂಪ್."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Land Ownership Record (RTC / Khatian)", "hi": "खतौनी / भूमि स्वामित्व प्रमाण", "kn": "ಜಮೀನಿನ ಪಹಣಿ (ಆರ್.ಟಿ.ಸಿ)" },
+      { "en": "Bank Passbook", "hi": "बैंक पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["farmer"],
+    "disability": false,
+    "applyLink": "https://pmkusum.mnre.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pm-kusum",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pradhan-mantri-fasal-bima-yojana",
+    "level": "central",
+    "category": "agriculture",
+    "name": {
+      "en": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+      "hi": "प्रधानमंत्री फसल बीमा योजना",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಫಸಲ್ ಬಿಮಾ ಯೋಜನೆ (ಬೆಳೆ ವಿಮೆ)"
+    },
+    "shortDescription": {
+      "en": "Comprehensive crop insurance protection against non-preventable natural risks at minimal premiums of 1.5% to 2%.",
+      "hi": "प्राकृतिक आपदाओं से फसल नुकसान पर मात्र 1.5% से 2% प्रीमियम पर व्यापक फसल बीमा सुरक्षा।",
+      "kn": "ನೈಸರ್ಗಿಕ ವಿಕೋಪಗಳಿಂದ ಬೆಳೆ ಹಾನಿಯಾದರೆ ಶೇ. 1.5 ರಿಂದ 2 ರ ಅತ್ಯಲ್ಪ ಪ್ರೀಮಿಯಂನಲ್ಲಿ ಸಂಪೂರ್ಣ ಬೆಳೆ ವಿಮೆ."
+    },
+    "benefits": {
+      "en": "Direct financial compensation for crop failure, localized calamities, post-harvest losses with balance premium paid by Govt.",
+      "hi": "बाढ़, सूखा या कीट प्रकोप से फसल क्षति पर पूर्ण बीमा दावा राशि सीधे बैंक खाते में।",
+      "kn": "ಬರಗಾಲ, ಪ್ರವಾಹ ಅಥವಾ ಕೀಟಬಾಧೆಯಿಂದ ಬೆಳೆ ನಷ್ಟವಾದರೆ ತ್ವರಿತ ವಿಮಾ ಪರಿಹಾರ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Land Records / Sowing Certificate", "hi": "भूमि रिकॉर्ड / बुवाई प्रमाणपत्र", "kn": "ಪಹಣಿ / ಬಿತ್ತನೆ ದೃಢೀಕರಣ ಪತ್ರ" },
+      { "en": "Bank Passbook", "hi": "बैंक पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["farmer"],
+    "disability": false,
+    "applyLink": "https://pmfby.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pmfby",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pm-egp-prime-ministers-employment-generation",
+    "level": "central",
+    "category": "employment",
+    "name": {
+      "en": "Prime Minister's Employment Generation Programme (PMEGP)",
+      "hi": "प्रधानमंत्री रोजगार सृजन कार्यक्रम (PMEGP)",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿಗಳ ಉದ್ಯೋಗ ಸೃಜನ ಕಾರ್ಯಕ್ರಮ (ಪಿಎಂಇಜಿಪಿ)"
+    },
+    "shortDescription": {
+      "en": "Credit-linked subsidy programme providing up to 35% margin money subsidy on bank loans up to ₹50 lakh for manufacturing.",
+      "hi": "विनिर्माण और सेवा क्षेत्र में नए उद्यम स्थापित करने हेतु 15% से 35% तक की सरकारी मार्जिन मनी सब्सिडी।",
+      "kn": "ಹೊಸ ಕೈಗಾರಿಕೆ ಅಥವಾ ಸೇವಾ ಉದ್ಯಮ ಸ್ಥಾಪಿಸಲು ಶೇ. 15 ರಿಂದ 35 ರವರೆಗೆ ಸಬ್ಸಿಡಿಯೊಂದಿಗೆ ₹50 ಲಕ್ಷದವರೆಗೆ ಬ್ಯಾಂಕ್ ಸಾಲ."
+    },
+    "benefits": {
+      "en": "Up to ₹50 lakh loan for manufacturing and ₹20 lakh for services with 15% to 35% government subsidy.",
+      "hi": "विनिर्माण हेतु ₹50 लाख और सेवा क्षेत्र हेतु ₹20 लाख के ऋण पर 35% तक का सरकारी अनुदान।",
+      "kn": "ಉತ್ಪಾದನಾ ಘಟಕಗಳಿಗೆ ₹50 ಲಕ್ಷ ಮತ್ತು ಸೇವಾ ಘಟಕಗಳಿಗೆ ₹20 ಲಕ್ಷದವರೆಗೆ ಸಬ್ಸಿಡಿ ಸಹಿತ ಸಾಲ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card & PAN Card", "hi": "आधार एवं पैन कार्ड", "kn": "ಆಧಾರ್ ಮತ್ತು ಪ್ಯಾನ್ ಕಾರ್ಡ್" },
+      { "en": "Detailed Project Report (DPR)", "hi": "प्रोजेक्ट रिपोर्ट", "kn": "ಯೋಜನಾ ವರದಿ" },
+      { "en": "Educational Qualification Certificate", "hi": "शैक्षणिक प्रमाण पत्र", "kn": "ವಿದ್ಯಾರ್ಹತೆ ಪ್ರಮಾಣ ಪತ್ರ" },
+      { "en": "Caste Certificate (if claiming special subsidy)", "hi": "जाति प्रमाण पत्र", "kn": "ಜಾತಿ ಪ್ರಮಾಣ ಪತ್ರ" }
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["entrepreneur", "artisan", "unemployed"],
+    "disability": false,
+    "applyLink": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pmegp",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "national-career-service-ncs",
+    "level": "central",
+    "category": "employment",
+    "name": {
+      "en": "National Career Service (NCS)",
+      "hi": "राष्ट्रीय करियर सेवा (NCS)",
+      "kn": "ರಾಷ್ಟ್ರೀಯ ವೃತ್ತಿ ಸೇವೆ (ಎನ್‌ಸಿಎಸ್)"
+    },
+    "shortDescription": {
+      "en": "Nationwide digital job-matching platform connecting jobseekers with verified employers, career counseling, and job fairs.",
+      "hi": "नौकरी चाहने वाले युवाओं को सत्यापित नियोक्ताओं, करियर परामर्श और रोजगार मेलों से जोड़ने वाला राष्ट्रीय मंच।",
+      "kn": "ಉದ್ಯೋಗಾಕಾಂಕ್ಷಿಗಳಿಗೆ ಉಚಿತ ಉದ್ಯೋಗಾವಕಾಶ, ವೃತ್ತಿ ಮಾರ್ಗದರ್ಶನ ಮತ್ತು ಉದ್ಯೋಗ ಮೇಳಗಳ ಮಾಹಿತಿ ನೀಡುವ ವೇದಿಕೆ."
+    },
+    "benefits": {
+      "en": "Free registration, direct application to verified public & private jobs, skill courses, and nationwide online job fairs.",
+      "hi": "निशुल्क पंजीकरण, सरकारी और निजी नौकरियों के लिए सीधा आवेदन और करियर काउंसलिंग।",
+      "kn": "ಉಚಿತ ನೋಂದಣಿ, ನೇರ ಉದ್ಯೋಗ ಅರ್ಜಿಗಳು ಮತ್ತು ಕೌಶಲ್ಯ ತರಬೇತಿ ಅವಕಾಶಗಳು."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "Educational Marksheets & Resume", "hi": "अंकतालिका एवं बायोडाटा", "kn": "ಅಂಕಪಟ್ಟಿ ಮತ್ತು ರೆಸ್ಯೂಮ್" }
+    ],
+    "minAge": 18,
+    "maxAge": 59,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["unemployed", "student", "salaried"],
+    "disability": false,
+    "applyLink": "https://www.ncs.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/ncs",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "pm-matru-vandana-yojana",
+    "level": "central",
+    "category": "women_empowerment",
+    "name": {
+      "en": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+      "hi": "प्रधानमंत्री मातृ वंदना योजना",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಮಾತೃ ವಂದನಾ ಯೋಜನೆ"
+    },
+    "shortDescription": {
+      "en": "Maternity cash incentive of ₹5,000 in two installments to pregnant women and lactating mothers for first living child.",
+      "hi": "गर्भवती महिलाओं और स्तनपान कराने वाली माताओं को पहले बच्चे के जन्म पर ₹5,000 की मातृत्व नकद प्रोत्साहन राशि।",
+      "kn": "ಗರ್ಭಿಣಿ ಮತ್ತು ಹಾಲುಣಿಸುವ ತಾಯಂದಿರಿಗೆ ಮೊದಲ ಮಗುವಿನ ಜನನದ ವೇಳೆ ₹5,000 ನೇರ ಆರ್ಥಿಕ ಪ್ರೋತ್ಸಾಹಧನ."
+    },
+    "benefits": {
+      "en": "Direct cash benefit of ₹5,000 transferred in 2 installments for nutritional support, plus additional ₹6,000 for 2nd girl child.",
+      "hi": "पोषण सुरक्षा हेतु ₹5,000 सीधे बैंक खाते में, तथा दूसरी कन्या संतान होने पर ₹6,000 का अतिरिक्त लाभ।",
+      "kn": "ಪೌಷ್ಟಿಕ ಆಹಾರ ಮತ್ತು ತಾಯಿ-ಮಗುವಿನ ಆರೈಕೆಗಾಗಿ ₹5,000 ಹಾಗೂ ಎರಡನೇ ಹೆಣ್ಣು ಮಗುವಿಗೆ ₹6,000 ನೆರವು."
+    },
+    "documents": [
+      { "en": "Mother and Husband Aadhaar Card", "hi": "माता और पति का आधार कार्ड", "kn": "ತಾಯಿ ಮತ್ತು ಪತಿಯ ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "MCP (Mother & Child Protection) Card", "hi": "एमसीपी कार्ड (ममता कार्ड)", "kn": "ತಾಯಿ ಕಾರ್ಡ್ (ಎಂಸಿಪಿ ಕಾರ್ಡ್)" },
+      { "en": "Aadhaar-linked Bank Passbook", "hi": "बैंक पासबुक", "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್" }
+    ],
+    "minAge": 19,
+    "maxAge": 45,
+    "maxIncome": 800000,
+    "genders": ["female"],
+    "castes": [],
+    "occupations": ["homemaker", "daily_wage", "farmer", "unemployed"],
+    "disability": false,
+    "applyLink": "https://pmmvy.wcd.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/pmmvy",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  },
+  {
+    "slug": "samarth-scheme-textiles-skill",
+    "level": "central",
+    "category": "employment",
+    "name": {
+      "en": "SAMARTH (Scheme for Capacity Building in Textile Sector)",
+      "hi": "समर्थ योजना (वस्त्र क्षेत्र में क्षमता निर्माण योजना)",
+      "kn": "ಸಮರ್ಥ ಯೋಜನೆ (ಜವಳಿ ವಲಯದಲ್ಲಿ ಕೌಶಲ್ಯ ತರಬೇತಿ)"
+    },
+    "shortDescription": {
+      "en": "Demand-driven, placement-oriented free NSQF-compliant skill development training in the textile and apparel sector.",
+      "hi": "वस्त्र एवं परिधान उद्योग में रोजगारोन्मुखी निशुल्क कौशल विकास प्रशिक्षण कार्यक्रम।",
+      "kn": "ಜವಳಿ ಮತ್ತು ಸಿದ್ಧ ಉಡುಪು ಕ್ಷೇತ್ರದಲ್ಲಿ ಉಚಿತ ಕೌಶಲ್ಯ ತರಬೇತಿ ಮತ್ತು ಖಚಿತ ಉದ್ಯೋಗಾವಕಾಶ."
+    },
+    "benefits": {
+      "en": "100% free industry-certified skill training with assured placement opportunities (minimum 70% placement mandate).",
+      "hi": "शत-प्रतिशत निशुल्क कौशल प्रशिक्षण और कम से कम 70% प्रशिक्षित युवाओं को नौकरी का अवसर।",
+      "kn": "ಉಚಿತ ಕೌಶಲ್ಯ ತರಬೇತಿ, ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಶೇ. 70 ರಷ್ಟು ಉದ್ಯೋಗ ನಿಯೋಜನೆ."
+    },
+    "documents": [
+      { "en": "Aadhaar Card", "hi": "आधार कार्ड", "kn": "ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "en": "10th Marksheet / School Leaving Certificate", "hi": "शैक्षणिक योग्यता प्रमाण", "kn": "ಶಾಲಾ ವರ್ಗಾವಣೆ ಪತ್ರ ಅಥವಾ ಅಂಕಪಟ್ಟಿ" }
+    ],
+    "minAge": 18,
+    "maxAge": 50,
+    "maxIncome": null,
+    "genders": [],
+    "castes": [],
+    "occupations": ["unemployed", "artisan", "homemaker"],
+    "disability": false,
+    "applyLink": "https://samarth-textiles.gov.in/",
+    "sourceUrl": "https://www.myscheme.gov.in/schemes/samarth",
+    "lastVerified": "2026-10-24",
+    "status": "active",
+    "needsReview": false
+  }
+]
